@@ -1,0 +1,38 @@
+{
+  "name": "adaptive-aptitude-api",
+  "version": "1.0.0",
+  "description": "Adaptive Aptitude Learning Platform — Phase 1 (Foundation) + Phase 2 (Question Intelligence Layer)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "jest --runInBand --forceExit",
+    "test:coverage": "jest --runInBand --forceExit --coverage",
+    "validate:questions": "node scripts/validateQuestions.js",
+    "import:questions": "node scripts/importQuestions.js",
+    "verify:phase2": "node scripts/verifyPhase2.js",
+    "verify:content": "node scripts/verifyContentIntegrity.js",
+    "rebuild:progress": "node scripts/rebuildStudentProgress.js"
+  },
+  "keywords": [
+    "adaptive-learning",
+    "aptitude",
+    "education",
+    "api"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "nodemon": "^3.1.4",
+    "supertest": "^7.0.0"
+  }
+}

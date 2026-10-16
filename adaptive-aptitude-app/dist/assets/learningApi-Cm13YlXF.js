@@ -1,0 +1,1 @@
+import{a as t}from"./index-BMpL5RLw.js";async function r(n){return t.post("/api/v1/learning/tutor",n)}async function i(n){return t.post("/api/v1/learning/hint",n)}async function a(n){return t.post("/api/v1/learning/mock-review",n)}export{a,r as b,i as r};

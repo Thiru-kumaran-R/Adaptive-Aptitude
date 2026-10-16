@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment variables — NEVER commit credentials
+.env
+.env.local
+.env.*.local
+
+# Test coverage
+coverage/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Editor
+.vscode/
+.idea/
+
+# Build output (if added later)
+dist/
+build/

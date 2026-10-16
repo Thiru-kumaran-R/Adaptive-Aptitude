@@ -1,0 +1,1 @@
+import{j as t}from"./query-vendor-DK_LJBGx.js";import{d as s}from"./index-BMpL5RLw.js";const c=({variant:e="neutral",children:r,className:a="",...o})=>{const n=e==="success"?s.badgeSuccess:e==="warning"?s.badgeWarning:e==="error"?s.badgeError:e==="info"?s.badgeInfo:s.badgeNeutral;return t.jsx("span",{className:`${s.badge} ${n} ${a}`.trim(),...o,children:r})};export{c as B};

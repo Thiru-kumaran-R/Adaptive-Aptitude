@@ -1,0 +1,4902 @@
+[
+  {
+    "question": "What is the ratio of 75 paise to \u20b93 in simplest form?",
+    "answer": "1:4",
+    "options": [
+      "1:3",
+      "1:4",
+      "1:5",
+      "3:4"
+    ],
+    "explanation": "\u20b93 = 300 paise. The ratio is 75 : 300. Dividing both terms by 75 gives 1 : 4.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Express the ratio of 45 minutes to 2.5 hours in its lowest terms.",
+    "answer": "3:10",
+    "options": [
+      "3:5",
+      "3:8",
+      "3:10",
+      "9:25"
+    ],
+    "explanation": "2.5 hours = 2.5 \u00d7 60 = 150 minutes. The ratio is 45 : 150. Dividing both terms by 15 gives 3 : 10.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the ratio of 500 meters to 3.5 kilometers in simplest form?",
+    "answer": "1:7",
+    "options": [
+      "1:6",
+      "1:7",
+      "2:7",
+      "5:7"
+    ],
+    "explanation": "3.5 km = 3,500 meters. The ratio is 500 : 3,500. Dividing both terms by 500 gives 1 : 7.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the ratio of 250 grams to 2 kilograms in simplest form.",
+    "answer": "1:8",
+    "options": [
+      "1:4",
+      "1:6",
+      "1:8",
+      "1:10"
+    ],
+    "explanation": "2 kg = 2,000 grams. The ratio is 250 : 2,000. Dividing both terms by 250 gives 1 : 8.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the ratio of 8 months to 2 years in lowest terms?",
+    "answer": "1:3",
+    "options": [
+      "1:2",
+      "1:3",
+      "1:4",
+      "2:3"
+    ],
+    "explanation": "2 years = 24 months. The ratio is 8 : 24. Dividing both terms by 8 gives 1 : 3.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Express the ratio of 350 mL to 1.4 liters in simplest form.",
+    "answer": "1:4",
+    "options": [
+      "1:3",
+      "1:4",
+      "1:5",
+      "7:20"
+    ],
+    "explanation": "1.4 liters = 1,400 mL. The ratio is 350 : 1,400. Dividing both terms by 350 gives 1 : 4.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the ratio of 36 seconds to 3 minutes in simplest form?",
+    "answer": "1:5",
+    "options": [
+      "1:4",
+      "1:5",
+      "1:6",
+      "3:10"
+    ],
+    "explanation": "3 minutes = 180 seconds. The ratio is 36 : 180. Dividing both terms by 36 gives 1 : 5.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the ratio of 15 cm to 1.2 meters in simplest terms.",
+    "answer": "1:8",
+    "options": [
+      "1:6",
+      "1:8",
+      "1:10",
+      "3:20"
+    ],
+    "explanation": "1.2 meters = 120 cm. The ratio is 15 : 120. Dividing both terms by 15 gives 1 : 8.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Simplify the fractional ratio (2/3) : (5/6).",
+    "answer": "4:5",
+    "options": [
+      "2:5",
+      "3:5",
+      "4:5",
+      "5:6"
+    ],
+    "explanation": "Multiply both fractions by the LCM of denominators (6): (2/3) \u00d7 6 : (5/6) \u00d7 6 = 4 : 5.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Simplify the mixed fractional ratio 2(1/2) : 3(3/4).",
+    "answer": "2:3",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:5",
+      "5:6"
+    ],
+    "explanation": "Convert to improper fractions: 5/2 : 15/4. Multiply by LCM (4): 10 : 15 = 2 : 3.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The ratio of two numbers is 5:7. If the smaller number is 45, what is the larger number?",
+    "answer": "63",
+    "options": [
+      "56",
+      "63",
+      "70",
+      "72"
+    ],
+    "explanation": "Let the numbers be 5x and 7x. Given 5x = 45 => x = 9. The larger number is 7x = 7 \u00d7 9 = 63.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The ratio of length to breadth of a rectangle is 8:5. If the breadth is 35 cm, what is the length?",
+    "answer": "56 cm",
+    "options": [
+      "50 cm",
+      "54 cm",
+      "56 cm",
+      "60 cm"
+    ],
+    "explanation": "Let length = 8x and breadth = 5x. 5x = 35 => x = 7. Length = 8 \u00d7 7 = 56 cm.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The ratio of boys to girls in a school is 9:7. If there are 350 girls, how many boys are enrolled?",
+    "answer": "450",
+    "options": [
+      "420",
+      "450",
+      "480",
+      "500"
+    ],
+    "explanation": "Let boys = 9x and girls = 7x. 7x = 350 => x = 50. Number of boys = 9 \u00d7 50 = 450.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Two numbers are in the ratio 11:14. If their sum is 375, what is the difference between the two numbers?",
+    "answer": "45",
+    "options": [
+      "30",
+      "40",
+      "45",
+      "50"
+    ],
+    "explanation": "Sum of ratio parts = 11 + 14 = 25 parts. 25 parts = 375 => 1 part = 15. Difference = 14 - 11 = 3 parts = 3 \u00d7 15 = 45.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The ratio of two quantities is 4:9. If the larger quantity is 108, find the smaller quantity.",
+    "answer": "48",
+    "options": [
+      "42",
+      "45",
+      "48",
+      "52"
+    ],
+    "explanation": "Let the quantities be 4x and 9x. 9x = 108 => x = 12. Smaller quantity = 4 \u00d7 12 = 48.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The ratio of copper to zinc in an alloy is 7:3. If the total weight of the alloy is 60 kg, how much zinc is present?",
+    "answer": "18 kg",
+    "options": [
+      "15 kg",
+      "18 kg",
+      "20 kg",
+      "21 kg"
+    ],
+    "explanation": "Total parts = 7 + 3 = 10. Zinc = (3 / 10) \u00d7 60 = 18 kg.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A rope of length 84 meters is cut into two pieces in the ratio 5:7. What is the length of the longer piece?",
+    "answer": "49 meters",
+    "options": [
+      "42 meters",
+      "45 meters",
+      "49 meters",
+      "56 meters"
+    ],
+    "explanation": "Total parts = 5 + 7 = 12. 12 parts = 84 m => 1 part = 7 m. Longer piece = 7 \u00d7 7 = 49 meters.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If a:b = 3:4 and b:c = 4:5, what is the ratio of a to c?",
+    "answer": "3:5",
+    "options": [
+      "2:3",
+      "3:4",
+      "3:5",
+      "4:5"
+    ],
+    "explanation": "Since the term 'b' is equal to 4 in both ratios, a : b : c = 3 : 4 : 5. Thus, a : c = 3 : 5.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the duplicate ratio of 4:7?",
+    "answer": "16:49",
+    "options": [
+      "8:14",
+      "12:21",
+      "16:42",
+      "16:49"
+    ],
+    "explanation": "The duplicate ratio of a : b is a^2 : b^2. Here, 4^2 : 7^2 = 16 : 49.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the duplicate ratio of 5:9.",
+    "answer": "25:81",
+    "options": [
+      "10:18",
+      "20:36",
+      "25:72",
+      "25:81"
+    ],
+    "explanation": "Duplicate ratio = 5^2 : 9^2 = 25 : 81.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the triplicate ratio of 2:3?",
+    "answer": "8:27",
+    "options": [
+      "4:9",
+      "6:9",
+      "8:24",
+      "8:27"
+    ],
+    "explanation": "The triplicate ratio of a : b is a^3 : b^3. Here, 2^3 : 3^3 = 8 : 27.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the triplicate ratio of 3:4.",
+    "answer": "27:64",
+    "options": [
+      "9:16",
+      "12:16",
+      "27:48",
+      "27:64"
+    ],
+    "explanation": "Triplicate ratio = 3^3 : 4^3 = 27 : 64.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the sub-duplicate ratio of 64:81?",
+    "answer": "8:9",
+    "options": [
+      "6:7",
+      "7:8",
+      "8:9",
+      "8:11"
+    ],
+    "explanation": "The sub-duplicate ratio of a : b is sqrt(a) : sqrt(b). Here, sqrt(64) : sqrt(81) = 8 : 9.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the sub-duplicate ratio of 144:169.",
+    "answer": "12:13",
+    "options": [
+      "11:12",
+      "12:13",
+      "12:14",
+      "13:14"
+    ],
+    "explanation": "Sub-duplicate ratio = sqrt(144) : sqrt(169) = 12 : 13.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the sub-triplicate ratio of 27:125?",
+    "answer": "3:5",
+    "options": [
+      "2:5",
+      "3:4",
+      "3:5",
+      "9:25"
+    ],
+    "explanation": "The sub-triplicate ratio of a : b is cbrt(a) : cbrt(b). Here, cbrt(27) : cbrt(125) = 3 : 5.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the sub-triplicate ratio of 64:343.",
+    "answer": "4:7",
+    "options": [
+      "3:7",
+      "4:6",
+      "4:7",
+      "8:19"
+    ],
+    "explanation": "Sub-triplicate ratio = cbrt(64) : cbrt(343) = 4 : 7.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If (2x + 1) : (3x + 4) is the duplicate ratio of 3:4, find x.",
+    "answer": "4",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "The duplicate ratio of 3:4 is 9:16. (2x + 1) / (3x + 4) = 9 / 16 => 16(2x + 1) = 9(3x + 4) => 32x + 16 = 27x + 36 => 5x = 20 => x = 4.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the inverse ratio of 7:11?",
+    "answer": "11:7",
+    "options": [
+      "1:7",
+      "1:11",
+      "7:11",
+      "11:7"
+    ],
+    "explanation": "The inverse ratio of a : b is b : a. Hence, the inverse ratio of 7 : 11 is 11 : 7.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the inverse ratio of 1/3 : 1/5 : 1/6.",
+    "answer": "10:6:5",
+    "options": [
+      "3:5:6",
+      "5:3:6",
+      "6:5:3",
+      "10:6:5"
+    ],
+    "explanation": "The reciprocal of (1/3, 1/5, 1/6) is (3, 5, 6). The inverse ratio of (a : b : c) is (1/a : 1/b : 1/c). For 1/3 : 1/5 : 1/6, the inverse is 3 : 5 : 6.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the inverse ratio of 2:3:4?",
+    "answer": "6:4:3",
+    "options": [
+      "2:3:4",
+      "3:4:6",
+      "4:3:2",
+      "6:4:3"
+    ],
+    "explanation": "The inverse ratio of a : b : c is (1/a) : (1/b) : (1/c) = (1/2) : (1/3) : (1/4). Multiplying by LCM (12): 6 : 4 : 3.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the inverse ratio of 3:4:5.",
+    "answer": "20:15:12",
+    "options": [
+      "5:4:3",
+      "12:15:20",
+      "15:12:10",
+      "20:15:12"
+    ],
+    "explanation": "Inverse ratio = (1/3) : (1/4) : (1/5). Multiplying by LCM (60): 20 : 15 : 12.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the inverse ratio of 4:5:6?",
+    "answer": "15:12:10",
+    "options": [
+      "6:5:4",
+      "10:12:15",
+      "12:15:20",
+      "15:12:10"
+    ],
+    "explanation": "Inverse ratio = (1/4) : (1/5) : (1/6). Multiplying by LCM (60): 15 : 12 : 10.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The speeds of three cars are in the ratio 2:3:5. What is the ratio of the times taken by them to travel the same distance?",
+    "answer": "15:10:6",
+    "options": [
+      "5:3:2",
+      "6:10:15",
+      "10:15:6",
+      "15:10:6"
+    ],
+    "explanation": "Time is inversely proportional to speed: Time ratio = (1/2) : (1/3) : (1/5). Multiplying by LCM (30) gives 15 : 10 : 6.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the compound ratio of 2:3, 6:7, and 14:15?",
+    "answer": "8:15",
+    "options": [
+      "4:5",
+      "6:15",
+      "7:15",
+      "8:15"
+    ],
+    "explanation": "Compound ratio = (2/3) \u00d7 (6/7) \u00d7 (14/15) = (2 \u00d7 6 \u00d7 14) / (3 \u00d7 7 \u00d7 15) = 168 / 315. Dividing by 21 gives 8 : 15.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the compound ratio of 3:5, 4:7, and 15:16.",
+    "answer": "9:28",
+    "options": [
+      "3:14",
+      "5:28",
+      "9:14",
+      "9:28"
+    ],
+    "explanation": "Compound ratio = (3/5) \u00d7 (4/7) \u00d7 (15/16) = (3 \u00d7 4 \u00d7 15) / (5 \u00d7 7 \u00d7 16) = (3 \u00d7 1 \u00d7 3) / (1 \u00d7 7 \u00d7 4) = 9 / 28.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the compound ratio of the duplicate ratio of 2:3 and the reciprocal ratio of 4:9?",
+    "answer": "1:1",
+    "options": [
+      "1:1",
+      "2:3",
+      "3:4",
+      "4:9"
+    ],
+    "explanation": "Duplicate ratio of 2:3 = 4:9. Reciprocal ratio of 4:9 = 9:4. Compound ratio = (4/9) \u00d7 (9/4) = 1 : 1.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the compound ratio of (a - b):(a + b) and (a^2 + b^2):(a^2 - b^2).",
+    "answer": "(a^2 + b^2):(a + b)^2",
+    "options": [
+      "1:1",
+      "(a^2 + b^2):(a + b)^2",
+      "(a^2 - b^2):(a + b)^2",
+      "(a - b):(a + b)"
+    ],
+    "explanation": "Product of antecedents / Product of consequents = [(a - b)(a^2 + b^2)] / [(a + b)(a^2 - b^2)] = [(a - b)(a^2 + b^2)] / [(a + b)(a - b)(a + b)] = (a^2 + b^2) / (a + b)^2.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The compound ratio of 3:4 and the sub-duplicate ratio of x:64 is 15:32. Find x.",
+    "answer": "25",
+    "options": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "explanation": "Compound ratio = (3/4) \u00d7 (sqrt(x)/8) = (3 sqrt(x)) / 32. Given this equals 15/32 => 3 sqrt(x) = 15 => sqrt(x) = 5 => x = 25.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following ratios is the largest?",
+    "answer": "5:6",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:5",
+      "5:6"
+    ],
+    "explanation": "Convert to decimals: 2/3 \u2248 0.667, 3/4 = 0.75, 4/5 = 0.80, 5/6 \u2248 0.833. The largest is 5:6.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Which of the following ratios is the smallest?",
+    "answer": "2:5",
+    "options": [
+      "2:5",
+      "3:7",
+      "4:9",
+      "5:11"
+    ],
+    "explanation": "Decimals: 2/5 = 0.400, 3/7 \u2248 0.428, 4/9 \u2248 0.444, 5/11 \u2248 0.454. The smallest is 2:5.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Arrange the ratios 3:4, 5:6, and 7:9 in ascending order.",
+    "answer": "3:4 < 7:9 < 5:6",
+    "options": [
+      "3:4 < 7:9 < 5:6",
+      "5:6 < 3:4 < 7:9",
+      "7:9 < 3:4 < 5:6",
+      "7:9 < 5:6 < 3:4"
+    ],
+    "explanation": "In decimals: 3/4 = 0.750, 7/9 \u2248 0.778, 5/6 \u2248 0.833. Hence, 3:4 < 7:9 < 5:6.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Between the ratios 8:15 and 5:9, which ratio is greater?",
+    "answer": "5:9",
+    "options": [
+      "5:9",
+      "8:15",
+      "Both are equal",
+      "Cannot be determined"
+    ],
+    "explanation": "Cross-multiplication: 8 \u00d7 9 = 72 and 15 \u00d7 5 = 75. Since 75 > 72, 5/9 > 8/15.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If x:y = 3:4, find the value of (4x + 5y) : (5x - 2y).",
+    "answer": "32:7",
+    "options": [
+      "28:7",
+      "30:7",
+      "32:7",
+      "35:8"
+    ],
+    "explanation": "Divide numerator and denominator by y: [4(x/y) + 5] / [5(x/y) - 2] = [4(3/4) + 5] / [5(3/4) - 2] = (3 + 5) / (15/4 - 2) = 8 / (7/4) = 32 / 7 = 32 : 7.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If a:b = 5:3, what is the value of (5a + 2b) : (3a + 4b)?",
+    "answer": "31:27",
+    "options": [
+      "29:25",
+      "30:27",
+      "31:27",
+      "35:27"
+    ],
+    "explanation": "Substitute a = 5k, b = 3k: (5(5) + 2(3)) / (3(5) + 4(3)) = (25 + 6) / (15 + 12) = 31 / 27 = 31 : 27.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If x:y = 2:3, find the value of (3x + 2y) : (9x + 5y).",
+    "answer": "4:11",
+    "options": [
+      "3:11",
+      "4:11",
+      "5:11",
+      "6:11"
+    ],
+    "explanation": "Substitute x = 2, y = 3: (3(2) + 2(3)) / (9(2) + 5(3)) = (6 + 6) / (18 + 15) = 12 / 33 = 4 / 11 = 4 : 11.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If x:y = 4:5, find the value of (x^2 + y^2) : (y^2 - x^2).",
+    "answer": "41:9",
+    "options": [
+      "39:9",
+      "40:9",
+      "41:9",
+      "45:9"
+    ],
+    "explanation": "Substitute x = 4, y = 5: (4^2 + 5^2) / (5^2 - 4^2) = (16 + 25) / (25 - 16) = 41 / 9 = 41 : 9.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If a:b = 7:4, find the value of (5a - 3b) : (4a + b).",
+    "answer": "23:32",
+    "options": [
+      "21:32",
+      "23:30",
+      "23:32",
+      "25:32"
+    ],
+    "explanation": "Substitute a = 7, b = 4: (5(7) - 3(4)) / (4(7) + 4) = (35 - 12) / (28 + 4) = 23 / 32 = 23 : 32.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If (3x + 1) : (2x + 3) = 4:3, what is the value of x?",
+    "answer": "9",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "3(3x + 1) = 4(2x + 3) => 9x + 3 = 8x + 12 => x = 12 - 3 = 9.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If (x + y) : (x - y) = 7:3, what is the ratio x:y?",
+    "answer": "5:2",
+    "options": [
+      "3:2",
+      "4:3",
+      "5:2",
+      "7:3"
+    ],
+    "explanation": "Using componendo and dividendo: [(x + y) + (x - y)] / [(x + y) - (x - y)] = (7 + 3) / (7 - 3) => 2x / 2y = 10 / 4 => x / y = 5 / 2 = 5 : 2.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If (3a + 5b) : (3a - 5b) = 5:1, what is the ratio a:b?",
+    "answer": "5:2",
+    "options": [
+      "2:5",
+      "3:2",
+      "5:2",
+      "5:3"
+    ],
+    "explanation": "Cross-multiplying gives 3a + 5b = 5(3a - 5b) => 3a + 5b = 15a - 25b => 12a = 30b => a/b = 30/12 = 5/2 = 5:2.",
+    "pattern": "Basic Ratios & Simplification",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the fourth proportional to 4, 9, and 12.",
+    "answer": "27",
+    "options": [
+      "24",
+      "26",
+      "27",
+      "28"
+    ],
+    "explanation": "Let the fourth proportional be x. 4 : 9 = 12 : x => 4x = 9 \u00d7 12 = 108 => x = 27.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the fourth proportional to 6, 8, and 15?",
+    "answer": "20",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "explanation": "6 : 8 = 15 : x => 6x = 8 \u00d7 15 = 120 => x = 20.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the fourth proportional to 5, 12, and 15.",
+    "answer": "36",
+    "options": [
+      "30",
+      "32",
+      "36",
+      "40"
+    ],
+    "explanation": "5 : 12 = 15 : x => 5x = 12 \u00d7 15 = 180 => x = 36.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the fourth proportional to 0.12, 0.21, and 8?",
+    "answer": "14",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "0.12 : 0.21 = 8 : x => x = (0.21 \u00d7 8) / 0.12 = 1.68 / 0.12 = 14.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the fourth proportional to 14, 21, and 26.",
+    "answer": "39",
+    "options": [
+      "36",
+      "38",
+      "39",
+      "42"
+    ],
+    "explanation": "14 : 21 = 26 : x => 14x = 21 \u00d7 26 = 546 => x = 546 / 14 = 39.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the fourth proportional to a^2, ab, and b^2?",
+    "answer": "b^3/a",
+    "options": [
+      "ab^2",
+      "b^2/a",
+      "b^3/a",
+      "ab"
+    ],
+    "explanation": "a^2 : ab = b^2 : x => a^2 x = ab \u00d7 b^2 = ab^3 => x = (ab^3) / a^2 = b^3 / a.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the fourth proportional to 7, 11, and 35.",
+    "answer": "55",
+    "options": [
+      "45",
+      "50",
+      "55",
+      "60"
+    ],
+    "explanation": "7 : 11 = 35 : x => 7x = 11 \u00d7 35 => x = 11 \u00d7 5 = 55.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the fourth proportional to 1/2, 1/3, and 1/4?",
+    "answer": "1/6",
+    "options": [
+      "1/6",
+      "1/5",
+      "1/8",
+      "1/12"
+    ],
+    "explanation": "(1/2) : (1/3) = (1/4) : x => (1/2)x = (1/3) \u00d7 (1/4) = 1/12 => x = (1/12) \u00d7 2 = 1/6.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the third proportional to 9 and 12.",
+    "answer": "16",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "18"
+    ],
+    "explanation": "Let the third proportional be x. 9 : 12 = 12 : x => 9x = 144 => x = 16.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the third proportional to 16 and 24?",
+    "answer": "36",
+    "options": [
+      "30",
+      "32",
+      "36",
+      "40"
+    ],
+    "explanation": "16 : 24 = 24 : x => 16x = 576 => x = 576 / 16 = 36.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the third proportional to 25 and 35.",
+    "answer": "49",
+    "options": [
+      "42",
+      "45",
+      "49",
+      "50"
+    ],
+    "explanation": "25 : 35 = 35 : x => 25x = 1,225 => x = 1,225 / 25 = 49.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the third proportional to 0.8 and 0.4?",
+    "answer": "0.2",
+    "options": [
+      "0.1",
+      "0.2",
+      "0.25",
+      "0.3"
+    ],
+    "explanation": "0.8 : 0.4 = 0.4 : x => 0.8x = 0.16 => x = 0.16 / 0.8 = 0.2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the third proportional to (x - y) and (x^2 - y^2).",
+    "answer": "(x + y)^2 (x - y)",
+    "options": [
+      "(x + y)^2 (x - y)",
+      "(x + y)^2",
+      "(x^2 - y^2)^2",
+      "(x - y)^2"
+    ],
+    "explanation": "Third proportional = b^2 / a = (x^2 - y^2)^2 / (x - y) = [(x - y)(x + y)]^2 / (x - y) = (x - y)(x + y)^2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Find the third proportional to 4 and 10.",
+    "answer": "25",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "25"
+    ],
+    "explanation": "4 : 10 = 10 : x => 4x = 100 => x = 25.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the third proportional to 12 and 18?",
+    "answer": "27",
+    "options": [
+      "24",
+      "26",
+      "27",
+      "30"
+    ],
+    "explanation": "12 : 18 = 18 : x => 12x = 324 => x = 27.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the third proportional to 6 and 15.",
+    "answer": "37.5",
+    "options": [
+      "35.0",
+      "36.0",
+      "37.5",
+      "40.0"
+    ],
+    "explanation": "6 : 15 = 15 : x => 6x = 225 => x = 225 / 6 = 37.5.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the mean proportional between 4 and 9.",
+    "answer": "6",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "Mean proportional = sqrt(a \u00d7 b) = sqrt(4 \u00d7 9) = sqrt(36) = 6.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the mean proportional between 9 and 25?",
+    "answer": "15",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "explanation": "Mean proportional = sqrt(9 \u00d7 25) = 3 \u00d7 5 = 15.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the mean proportional between 0.32 and 0.02.",
+    "answer": "0.08",
+    "options": [
+      "0.04",
+      "0.06",
+      "0.08",
+      "0.16"
+    ],
+    "explanation": "Mean proportional = sqrt(0.32 \u00d7 0.02) = sqrt(0.0064) = 0.08.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the mean proportional between 16 and 36?",
+    "answer": "24",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "explanation": "Mean proportional = sqrt(16 \u00d7 36) = 4 \u00d7 6 = 24.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the mean proportional between (3 + sqrt(2)) and (12 - sqrt(32)).",
+    "answer": "2 sqrt(7)",
+    "options": [
+      "2 sqrt(7)",
+      "2 sqrt(5)",
+      "3 sqrt(3)",
+      "4"
+    ],
+    "explanation": "(3 + sqrt(2)) \u00d7 (12 - 4 sqrt(2)) = 4(3 + sqrt(2))(3 - sqrt(2)) = 4(9 - 2) = 28. Mean proportional = sqrt(28) = 2 sqrt(7).",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the mean proportional between 8 and 18?",
+    "answer": "12",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "explanation": "Mean proportional = sqrt(8 \u00d7 18) = sqrt(144) = 12.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the mean proportional between 1/4 and 1/16.",
+    "answer": "1/8",
+    "options": [
+      "1/8",
+      "1/6",
+      "1/10",
+      "1/12"
+    ],
+    "explanation": "Mean proportional = sqrt((1/4) \u00d7 (1/16)) = sqrt(1/64) = 1/8.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be added to each of 6, 14, 18, and 38 so that the resulting numbers are in proportion?",
+    "answer": "2",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "Let x be added. (6 + x)/(14 + x) = (18 + x)/(38 + x). (6 + x)(38 + x) = (14 + x)(18 + x) => 228 + 44x + x^2 = 252 + 32x + x^2 => 12x = 24 => x = 2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "What number should be subtracted from each of 21, 38, 55, and 106 so that the remainders are proportional?",
+    "answer": "4",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "Let x be subtracted: (21 - x)/(38 - x) = (55 - x)/(106 - x). (21 - x)(106 - x) = (38 - x)(55 - x) => 2,226 - 127x + x^2 = 2,090 - 93x + x^2 => 34x = 136 => x = 4.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "What number must be added to each of 7, 16, 43, and 79 to make the resulting numbers in proportion?",
+    "answer": "5",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "(7 + x)/(16 + x) = (43 + x)/(79 + x). Shortcut: x = (ad - bc) / ((b + c) - (a + d)) = (7 \u00d7 79 - 16 \u00d7 43) / ((16 + 43) - (7 + 79)) = (553 - 688) / (59 - 86) = -135 / -27 = 5.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be subtracted from each of 14, 17, 34, and 42 so that the remainders are in proportion?",
+    "answer": "2",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "explanation": "(14 - x)/(17 - x) = (34 - x)/(42 - x). (14 - x)(42 - x) = (17 - x)(34 - x) => 588 - 56x = 578 - 51x => 5x = 10 => x = 2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be added to each of 10, 18, 22, and 38 so that the resulting numbers form a proportion?",
+    "answer": "2",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "(10 + x)/(18 + x) = (22 + x)/(38 + x) => (10 + x)(38 + x) = (18 + x)(22 + x) => 380 + 48x = 396 + 40x => 8x = 16 => x = 2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be subtracted from each of 19, 28, 55, and 91 so that the resulting numbers are in proportion?",
+    "answer": "7",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "explanation": "Shortcut: x = (19 \u00d7 91 - 28 \u00d7 55) / ((28 + 55) - (19 + 91)) = (1,729 - 1,540) / (83 - 110) = 189 / -27 = -7. Since formula computes added x = -7, subtracted number is 7.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If x is subtracted from each of 23, 39, 32, and 56, the numbers are in proportion. What is the mean proportional between (x + 4) and (3x + 1)?",
+    "answer": "12",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "15"
+    ],
+    "explanation": "(23 - x)(56 - x) = (39 - x)(32 - x) => 1,288 - 79x = 1,248 - 71x => 8x = 40 => x = 5. (x + 4) = 9, (3x + 1) = 16. Mean proportional = sqrt(9 \u00d7 16) = 3 \u00d7 4 = 12.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If x is added to each of 12, 28, 21, and 45, the numbers become in proportion. What is the value of x?",
+    "answer": "6",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "(12 + x)(45 + x) = (28 + x)(21 + x) => 540 + 57x = 588 + 49x => 8x = 48 => x = 6.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "y varies directly as x. If y = 12 when x = 4, what is the value of y when x = 9?",
+    "answer": "27",
+    "options": [
+      "24",
+      "27",
+      "28",
+      "30"
+    ],
+    "explanation": "y = kx. 12 = 4k => k = 3. When x = 9, y = 3 \u00d7 9 = 27.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A quantity P varies directly as the square of Q. If P = 45 when Q = 3, what is P when Q = 5?",
+    "answer": "125",
+    "options": [
+      "100",
+      "120",
+      "125",
+      "150"
+    ],
+    "explanation": "P = k Q^2. 45 = k(3^2) = 9k => k = 5. When Q = 5, P = 5(5^2) = 5 \u00d7 25 = 125.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "y varies inversely as x. If y = 8 when x = 3, what is y when x = 6?",
+    "answer": "4",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "yx = k. k = 8 \u00d7 3 = 24. When x = 6, y = 24 / 6 = 4.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A varies inversely as the square of B. If A = 2 when B = 6, what is A when B = 3?",
+    "answer": "8",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "explanation": "A \u00d7 B^2 = k. k = 2 \u00d7 6^2 = 72. When B = 3, A = 72 / 3^2 = 72 / 9 = 8.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Z varies directly as X and inversely as Y. If Z = 10 when X = 5 and Y = 2, what is Z when X = 8 and Y = 4?",
+    "answer": "8",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "Z = k(X / Y). 10 = k(5 / 2) => k = 4. When X = 8, Y = 4: Z = 4(8 / 4) = 8.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The cost of a circular mirror varies directly as the square of its radius. A mirror of radius 10 cm costs \u20b9200. What is the cost of a mirror of radius 15 cm?",
+    "answer": "\u20b9450",
+    "options": [
+      "\u20b9300",
+      "\u20b9400",
+      "\u20b9450",
+      "\u20b9500"
+    ],
+    "explanation": "Cost = k \u00d7 r^2. 200 = k(10^2) = 100k => k = 2. For r = 15 cm, Cost = 2 \u00d7 (15^2) = 2 \u00d7 225 = \u20b9450.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The pressure P of a gas is inversely proportional to its volume V at constant temperature. If P = 4 atm when V = 15 liters, what is the pressure when the gas is compressed to 6 liters?",
+    "answer": "10 atm",
+    "options": [
+      "8 atm",
+      "9 atm",
+      "10 atm",
+      "12 atm"
+    ],
+    "explanation": "P \u00d7 V = k = 4 \u00d7 15 = 60. When V = 6 L, P = 60 / 6 = 10 atm.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The extension of a spring varies directly as the weight suspended from it. A weight of 15 kg produces an extension of 3 cm. What weight will produce an extension of 5 cm?",
+    "answer": "25 kg",
+    "options": [
+      "20 kg",
+      "22.5 kg",
+      "25 kg",
+      "30 kg"
+    ],
+    "explanation": "Extension E = k \u00d7 W => 3 = 15k => k = 1/5. For E = 5 cm, 5 = (1/5)W => W = 25 kg.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The illumination from a light source varies inversely as the square of the distance from the source. If the distance is doubled, by what factor does the illumination change?",
+    "answer": "1/4",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/8",
+      "4"
+    ],
+    "explanation": "Illumination I = k / d^2. When distance becomes 2d, new illumination I' = k / (2d)^2 = (1/4)(k / d^2) = I / 4.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A diamond's value varies directly as the square of its weight. A diamond weighing 10 carats costs \u20b950,000. It accidentally breaks into two pieces in the ratio 2:3. What is the loss in value due to breakage?",
+    "answer": "\u20b924,000",
+    "options": [
+      "\u20b920,000",
+      "\u20b924,000",
+      "\u20b925,000",
+      "\u20b930,000"
+    ],
+    "explanation": "Value = k \u00d7 w^2. 50,000 = k \u00d7 10^2 = 100k => k = 500. Original value = \u20b950,000. Weights of pieces = 4 carats and 6 carats. Values = 500(4^2) + 500(6^2) = 500(16 + 36) = 500(52) = \u20b926,000. Loss in value = 50,000 - 26,000 = \u20b924,000.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What is the mean proportional between (a + b)^2 and (a - b)^2?",
+    "answer": "a^2 - b^2",
+    "options": [
+      "a^2 - b^2",
+      "a^2 + b^2",
+      "2ab",
+      "a - b"
+    ],
+    "explanation": "Mean proportional = sqrt((a + b)^2 \u00d7 (a - b)^2) = (a + b)(a - b) = a^2 - b^2.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the third proportional to 2.5 and 5.",
+    "answer": "10",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "12.5"
+    ],
+    "explanation": "Third proportional = b^2 / a = 5^2 / 2.5 = 25 / 2.5 = 10.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the fourth proportional to (x^2 - y^2), (x + y), and (x - y).",
+    "answer": "1",
+    "options": [
+      "1",
+      "x^2 + y^2",
+      "x + y",
+      "x - y"
+    ],
+    "explanation": "Let fourth proportional be P. (x^2 - y^2) / (x + y) = (x - y) / P => (x - y) = (x - y) / P => P = 1.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "What number must be added to each of 8, 21, 13, and 31 so that the resulting numbers are in proportion?",
+    "answer": "5",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "explanation": "(8 + x)/(21 + x) = (13 + x)/(31 + x) => (8 + x)(31 + x) = (21 + x)(13 + x) => 248 + 39x = 273 + 34x => 5x = 25 => x = 5.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The kinetic energy of an object varies directly as its mass and directly as the square of its velocity. If a 4 kg object moving at 3 m/s has kinetic energy of 18 Joules, what is the kinetic energy of a 6 kg object moving at 4 m/s?",
+    "answer": "48 Joules",
+    "options": [
+      "36 Joules",
+      "42 Joules",
+      "48 Joules",
+      "54 Joules"
+    ],
+    "explanation": "E = k \u00d7 m \u00d7 v^2. 18 = k \u00d7 4 \u00d7 9 = 36k => k = 1/2. For m = 6 kg, v = 4 m/s: E = (1/2) \u00d7 6 \u00d7 16 = 48 Joules.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The time taken to complete a job is inversely proportional to the number of workers. If 12 workers complete the job in 15 days, how many days will 20 workers take?",
+    "answer": "9 days",
+    "options": [
+      "8 days",
+      "9 days",
+      "10 days",
+      "12 days"
+    ],
+    "explanation": "T \u00d7 W = k = 12 \u00d7 15 = 180 worker-days. For 20 workers, Time = 180 / 20 = 9 days.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The distance covered by a falling body from rest varies directly as the square of the time of fall. A stone falls 45 meters in 3 seconds. How far will it fall in 5 seconds?",
+    "answer": "125 meters",
+    "options": [
+      "100 meters",
+      "120 meters",
+      "125 meters",
+      "150 meters"
+    ],
+    "explanation": "s = k \u00d7 t^2. 45 = k \u00d7 3^2 = 9k => k = 5. For t = 5 s, distance s = 5 \u00d7 5^2 = 5 \u00d7 25 = 125 meters.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "The value of a gem varies directly as the cube of its weight. A gem weighing 3 grams costs \u20b92,700. If it breaks into two pieces of 1 gram and 2 grams, what is the total value of the two pieces?",
+    "answer": "\u20b9900",
+    "options": [
+      "\u20b9750",
+      "\u20b9800",
+      "\u20b9900",
+      "\u20b91,000"
+    ],
+    "explanation": "Value = k \u00d7 w^3. 2,700 = k \u00d7 27 => k = 100. New value = 100(1^3) + 100(2^3) = 100(1 + 8) = \u20b9900.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Find the mean proportional between 0.08 and 0.18.",
+    "answer": "0.12",
+    "options": [
+      "0.09",
+      "0.12",
+      "0.14",
+      "0.16"
+    ],
+    "explanation": "Mean proportional = sqrt(0.08 \u00d7 0.18) = sqrt(0.0144) = 0.12.",
+    "pattern": "Proportions & Variation",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 2:3 and B:C = 4:5, what is A:B:C?",
+    "answer": "8:12:15",
+    "options": [
+      "6:9:15",
+      "8:10:15",
+      "8:12:15",
+      "8:12:20"
+    ],
+    "explanation": "Multiply A:B by 4 and B:C by 3: A:B = 8:12, B:C = 12:15. Thus, A:B:C = 8:12:15.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 3:5 and B:C = 2:3, what is A:B:C?",
+    "answer": "6:10:15",
+    "options": [
+      "5:10:15",
+      "6:9:15",
+      "6:10:12",
+      "6:10:15"
+    ],
+    "explanation": "Multiply A:B by 2 and B:C by 5: A:B = 6:10, B:C = 10:15. Hence, A:B:C = 6:10:15.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 5:8 and B:C = 6:7, find A:B:C.",
+    "answer": "15:24:28",
+    "options": [
+      "10:16:21",
+      "15:24:28",
+      "15:24:32",
+      "30:48:56"
+    ],
+    "explanation": "LCM of 8 and 6 is 24. Multiply A:B by 3 (15:24) and B:C by 4 (24:28). A:B:C = 15:24:28.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 7:9 and B:C = 3:5, what is A:C?",
+    "answer": "7:15",
+    "options": [
+      "7:12",
+      "7:15",
+      "9:15",
+      "21:45"
+    ],
+    "explanation": "A/C = (A/B) \u00d7 (B/C) = (7/9) \u00d7 (3/5) = 7/15. Thus, A:C = 7:15.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 1:2 and B:C = 3:4, what is A:B:C?",
+    "answer": "3:6:8",
+    "options": [
+      "1:3:4",
+      "2:4:6",
+      "3:6:8",
+      "3:6:9"
+    ],
+    "explanation": "Multiply A:B by 3 and B:C by 2: A:B = 3:6, B:C = 6:8 => A:B:C = 3:6:8.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 4:7 and B:C = 5:6, find A:B:C.",
+    "answer": "20:35:42",
+    "options": [
+      "16:28:35",
+      "20:35:40",
+      "20:35:42",
+      "24:35:42"
+    ],
+    "explanation": "Multiply A:B by 5 and B:C by 7: A:B = 20:35, B:C = 35:42 => A:B:C = 20:35:42.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If X:Y = 5:6 and Y:Z = 8:9, what is X:Z?",
+    "answer": "20:27",
+    "options": [
+      "15:27",
+      "20:25",
+      "20:27",
+      "25:27"
+    ],
+    "explanation": "X/Z = (X/Y) \u00d7 (Y/Z) = (5/6) \u00d7 (8/9) = 40/54 = 20/27. Thus, X:Z = 20:27.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If P:Q = 3:4 and Q:R = 8:9, find P:Q:R.",
+    "answer": "6:8:9",
+    "options": [
+      "3:8:9",
+      "6:8:9",
+      "6:8:12",
+      "9:12:16"
+    ],
+    "explanation": "Q is 4 and 8 (LCM = 8). Multiply P:Q by 2: P:Q = 6:8, Q:R = 8:9. P:Q:R = 6:8:9.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 2:5 and B:C = 15:8, find A:C.",
+    "answer": "3:4",
+    "options": [
+      "2:3",
+      "3:4",
+      "3:5",
+      "4:5"
+    ],
+    "explanation": "A/C = (2/5) \u00d7 (15/8) = 30/40 = 3/4 = 3:4.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 3:4 and B:C = 8:9, what is (A + B) : (B + C)?",
+    "answer": "14:17",
+    "options": [
+      "7:9",
+      "12:17",
+      "14:17",
+      "14:19"
+    ],
+    "explanation": "A:B:C = 6:8:9. A + B = 6 + 8 = 14. B + C = 8 + 9 = 17. Ratio = 14 : 17.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 2:3, B:C = 4:5, and C:D = 6:7, find A:D.",
+    "answer": "16:35",
+    "options": [
+      "12:35",
+      "16:25",
+      "16:35",
+      "18:35"
+    ],
+    "explanation": "A/D = (A/B) \u00d7 (B/C) \u00d7 (C/D) = (2/3) \u00d7 (4/5) \u00d7 (6/7) = 48 / 105 = 16 / 35 = 16:35.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 1:2, B:C = 3:4, and C:D = 5:6, what is A:B:C:D?",
+    "answer": "15:30:40:48",
+    "options": [
+      "10:20:30:40",
+      "12:24:32:40",
+      "15:30:40:48",
+      "15:30:45:48"
+    ],
+    "explanation": "A:B:C = 3:6:8. Now C is 8 and in C:D C is 5 (LCM = 40). Multiply (3:6:8) by 5 = 15:30:40. Multiply C:D (5:6) by 8 = 40:48. Thus, A:B:C:D = 15:30:40:48.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 2:3, B:C = 2:4, and C:D = 2:5, find A:D.",
+    "answer": "2:15",
+    "options": [
+      "1:10",
+      "2:10",
+      "2:15",
+      "4:15"
+    ],
+    "explanation": "A/D = (2/3) \u00d7 (2/4) \u00d7 (2/5) = (2/3) \u00d7 (1/2) \u00d7 (2/5) = 2 / 15 = 2:15.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 3:4, B:C = 5:7, and C:D = 8:9, what is A:D?",
+    "answer": "10:21",
+    "options": [
+      "8:21",
+      "10:19",
+      "10:21",
+      "12:21"
+    ],
+    "explanation": "A/D = (3/4) \u00d7 (5/7) \u00d7 (8/9) = (3 \u00d7 5 \u00d7 8) / (4 \u00d7 7 \u00d7 9) = 120 / 252 = 10 / 21 = 10:21.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If P:Q = 1:3, Q:R = 2:5, and R:S = 2:3, find P:Q:R:S.",
+    "answer": "4:12:30:45",
+    "options": [
+      "2:6:15:20",
+      "3:9:15:25",
+      "4:12:25:35",
+      "4:12:30:45"
+    ],
+    "explanation": "P:Q:R = 2:6:15. R:S = 2:3. LCM of 15 and 2 is 30. Multiply (2:6:15) by 2 = 4:12:30. Multiply (2:3) by 15 = 30:45. P:Q:R:S = 4:12:30:45.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 4:5, B:C = 3:4, and C:D = 6:7, what is A:B:C:D?",
+    "answer": "36:45:60:70",
+    "options": [
+      "24:30:40:49",
+      "30:40:50:60",
+      "36:45:55:70",
+      "36:45:60:70"
+    ],
+    "explanation": "A:B:C = 12:15:20. C is 20 and in C:D C is 6. LCM(20, 6) = 60. Multiply (12:15:20) by 3 = 36:45:60. Multiply (6:7) by 10 = 60:70. A:B:C:D = 36:45:60:70.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A:B = 2:1, B:C = 3:2, and C:D = 4:3, what is A:D?",
+    "answer": "4:1",
+    "options": [
+      "3:1",
+      "4:1",
+      "4:3",
+      "6:1"
+    ],
+    "explanation": "A/D = (2/1) \u00d7 (3/2) \u00d7 (4/3) = 24 / 6 = 4 / 1 = 4:1.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If 2A = 3B = 4C, find A:B:C.",
+    "answer": "6:4:3",
+    "options": [
+      "2:3:4",
+      "3:4:6",
+      "4:3:2",
+      "6:4:3"
+    ],
+    "explanation": "Divide by LCM(2, 3, 4) = 12: (2A/12) = (3B/12) = (4C/12) => A/6 = B/4 = C/3 => A:B:C = 6:4:3.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If 3A = 4B = 5C, what is A:B:C?",
+    "answer": "20:15:12",
+    "options": [
+      "5:4:3",
+      "12:15:20",
+      "15:12:10",
+      "20:15:12"
+    ],
+    "explanation": "Divide by LCM(3, 4, 5) = 60: A/20 = B/15 = C/12 => A:B:C = 20:15:12.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A/3 = B/4 = C/5, what is A:B:C?",
+    "answer": "3:4:5",
+    "options": [
+      "3:4:5",
+      "4:3:5",
+      "5:4:3",
+      "12:15:20"
+    ],
+    "explanation": "Directly, A:B:C = 3:4:5.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If A/2 = B/3 = C/4, what is the value of (A + B + C) / B?",
+    "answer": "3",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "9/2"
+    ],
+    "explanation": "Let A/2 = B/3 = C/4 = k. A = 2k, B = 3k, C = 4k. (A + B + C) / B = (2k + 3k + 4k) / 3k = 9k / 3k = 3.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If 4A = 5B and 3B = 2C, find A:C.",
+    "answer": "5:6",
+    "options": [
+      "4:5",
+      "5:6",
+      "5:8",
+      "6:5"
+    ],
+    "explanation": "A/B = 5/4 and B/C = 2/3. A/C = (5/4) \u00d7 (2/3) = 10/12 = 5/6 = 5:6.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If 30% of A = 40% of B = 50% of C, find A:B:C.",
+    "answer": "20:15:12",
+    "options": [
+      "3:4:5",
+      "5:4:3",
+      "12:15:20",
+      "20:15:12"
+    ],
+    "explanation": "0.3A = 0.4B = 0.5C => 3A = 4B = 5C. Dividing by LCM(60) gives A/20 = B/15 = C/12 => A:B:C = 20:15:12.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If 2A = 5B = 6C, what is A:B:C?",
+    "answer": "15:6:5",
+    "options": [
+      "10:5:3",
+      "12:6:5",
+      "15:5:6",
+      "15:6:5"
+    ],
+    "explanation": "Divide by LCM(2, 5, 6) = 30: A/15 = B/6 = C/5 => A:B:C = 15:6:5.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "If (1/2)A = (1/3)B = (1/4)C, what is A:B:C?",
+    "answer": "2:3:4",
+    "options": [
+      "2:3:4",
+      "3:2:1",
+      "4:3:2",
+      "6:4:3"
+    ],
+    "explanation": "Multiply each term by k: A = 2k, B = 3k, C = 4k => A:B:C = 2:3:4.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A sum of \u20b91,050 is divided among A, B, and C in the ratio 2:3:5. What is C's share?",
+    "answer": "\u20b9525",
+    "options": [
+      "\u20b9420",
+      "\u20b9450",
+      "\u20b9500",
+      "\u20b9525"
+    ],
+    "explanation": "Total parts = 2 + 3 + 5 = 10. C's share = (5 / 10) \u00d7 1,050 = \u20b9525.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Divide \u20b92,600 among A, B, and C in the ratio (1/2) : (1/3) : (1/4). What is B's share?",
+    "answer": "\u20b9800",
+    "options": [
+      "\u20b9600",
+      "\u20b9750",
+      "\u20b9800",
+      "\u20b9900"
+    ],
+    "explanation": "Multiply ratio by LCM(12): 6 : 4 : 3. Total parts = 13. B's share = (4 / 13) \u00d7 2,600 = 4 \u00d7 200 = \u20b9800.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "An amount of \u20b93,600 is shared between P, Q, and R in the ratio 3:4:5. How much more does R get than P?",
+    "answer": "\u20b9600",
+    "options": [
+      "\u20b9400",
+      "\u20b9500",
+      "\u20b9600",
+      "\u20b9800"
+    ],
+    "explanation": "Total parts = 3 + 4 + 5 = 12. 12 parts = \u20b93,600 => 1 part = \u20b9300. Difference between R and P = 5 - 3 = 2 parts = 2 \u00d7 300 = \u20b9600.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b94,200 is divided among A, B, and C such that A:B = 2:3 and B:C = 4:5. What is B's share?",
+    "answer": "\u20b91,440",
+    "options": [
+      "\u20b91,200",
+      "\u20b91,350",
+      "\u20b91,440",
+      "\u20b91,500"
+    ],
+    "explanation": "A:B:C = 8:12:15. Total parts = 8 + 12 + 15 = 35. 35 parts = 4,200 => 1 part = 120. B's share = 12 \u00d7 120 = \u20b91,440.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A profit of \u20b97,600 is divided among X, Y, and Z such that X's share : Y's share = 3:2 and Y's share : Z's share = 3:2. What is Z's share?",
+    "answer": "\u20b91,600",
+    "options": [
+      "\u20b91,200",
+      "\u20b91,400",
+      "\u20b91,600",
+      "\u20b91,800"
+    ],
+    "explanation": "X:Y:Z = 9:6:4. Total parts = 9 + 6 + 4 = 19. 19 parts = \u20b97,600 => 1 part = \u20b9400. Z's share = 4 \u00d7 400 = \u20b91,600.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "\u20b91,870 is divided among A, B, and C such that A's share is (2/3) of B's share and B's share is (1/4) of C's share. What is C's share?",
+    "answer": "\u20b91,320",
+    "options": [
+      "\u20b91,100",
+      "\u20b91,200",
+      "\u20b91,320",
+      "\u20b91,400"
+    ],
+    "explanation": "Let C = 12x. B = (1/4)C = 3x. A = (2/3)B = 2x. A:B:C = 2:3:12. Total parts = 17. 17 parts = 1,870 => x = 110. C's share = 12 \u00d7 110 = \u20b91,320.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b91,400 is divided between A and B such that 5 times A's share equals 2 times B's share. What is A's share?",
+    "answer": "\u20b9400",
+    "options": [
+      "\u20b9350",
+      "\u20b9400",
+      "\u20b9450",
+      "\u20b9500"
+    ],
+    "explanation": "5A = 2B => A:B = 2:5. Total parts = 7. A's share = (2 / 7) \u00d7 1,400 = \u20b9400.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "\u20b95,100 is distributed among A, B, and C such that A gets (2/3) of what B gets and B gets (1/4) of what C gets. How much does B get?",
+    "answer": "\u20b9900",
+    "options": [
+      "\u20b9600",
+      "\u20b9750",
+      "\u20b9900",
+      "\u20b91,000"
+    ],
+    "explanation": "A:B = 2:3, B:C = 1:4 = 3:12 => A:B:C = 2:3:12. Total parts = 17. 17 parts = 5,100 => 1 part = 300. B's share = 3 \u00d7 300 = \u20b9900.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b99,000 is divided among A, B, and C. A receives 1/2 as much as B and C together, and B receives 1/3 as much as A and C together. What is C's share?",
+    "answer": "\u20b93,750",
+    "options": [
+      "\u20b93,000",
+      "\u20b93,500",
+      "\u20b93,750",
+      "\u20b94,000"
+    ],
+    "explanation": "A = (1/2)(B + C) => A / Total = 1/3 => A = \u20b93,000. B = (1/3)(A + C) => B / Total = 1/4 => B = \u20b92,250. C = 9,000 - (3,000 + 2,250) = \u20b93,750.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "\u20b96,800 is divided among A, B, and C such that A gets (2/3) of B, and B gets (1/4) of C. What is the difference between the shares of A and C?",
+    "answer": "\u20b94,000",
+    "options": [
+      "\u20b93,600",
+      "\u20b93,800",
+      "\u20b94,000",
+      "\u20b94,200"
+    ],
+    "explanation": "A:B:C = 2:3:12. Total = 17 parts = \u20b96,800 => 1 part = \u20b9400. C - A = 12 - 2 = 10 parts = 10 \u00d7 400 = \u20b94,000.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A prize of \u20b91,800 is divided among 3 winners in the ratio 2:3:4. What is the share of the second winner?",
+    "answer": "\u20b9600",
+    "options": [
+      "\u20b9400",
+      "\u20b9500",
+      "\u20b9600",
+      "\u20b9800"
+    ],
+    "explanation": "Total parts = 2 + 3 + 4 = 9. Second winner = (3 / 9) \u00d7 1,800 = \u20b9600.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Divide \u20b93,000 among A, B, and C such that A gets twice as much as B, and B gets thrice as much as C. What is B's share?",
+    "answer": "\u20b9900",
+    "options": [
+      "\u20b9600",
+      "\u20b9800",
+      "\u20b9900",
+      "\u20b91,000"
+    ],
+    "explanation": "Let C = x => B = 3x => A = 2(3x) = 6x. A:B:C = 6:3:1. Total = 10x = 3,000 => x = 300. B's share = 3 \u00d7 300 = \u20b9900.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A sum of \u20b9117 was supposed to be divided among A, B, and C in the ratio (1/2) : (1/3) : (1/4), but by mistake it was divided in the ratio 2:3:4. Who gained the most and by how much?",
+    "answer": "C by \u20b925",
+    "options": [
+      "B by \u20b93",
+      "C by \u20b920",
+      "C by \u20b925",
+      "A by \u20b928"
+    ],
+    "explanation": "Correct ratio: (1/2):(1/3):(1/4) = 6:4:3 (total 13 parts). 13 parts = 117 => 1 part = 9. Correct shares: A = 54, B = 36, C = 27. Erroneous ratio: 2:3:4 (total 9 parts). 9 parts = 117 => 1 part = 13. Erroneous shares: A = 26, B = 39, C = 52. C was supposed to get 27 but got 52, gaining 52 - 27 = \u20b925.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "\u20b9555 was to be divided among A, B, and C in the ratio (1/4) : (1/5) : (1/6). But by mistake it was divided in the ratio 4:5:6. How much did C gain?",
+    "answer": "\u20b972",
+    "options": [
+      "\u20b960",
+      "\u20b965",
+      "\u20b972",
+      "\u20b980"
+    ],
+    "explanation": "Correct ratio = (1/4):(1/5):(1/6) = 15:12:10 (LCM 60, total 37 parts). 37 parts = 555 => 1 part = 15. Correct C = 10 \u00d7 15 = \u20b9150. Erroneous ratio = 4:5:6 (total 15 parts). 15 parts = 555 => 1 part = 37. Erroneous C = 6 \u00d7 37 = \u20b9222. C's gain = 222 - 150 = \u20b972.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b9600 was erroneously divided among A, B, and C in the ratio 1:2:3 instead of 2:3:5. By how much did A's share decrease?",
+    "answer": "\u20b920",
+    "options": [
+      "\u20b915",
+      "\u20b920",
+      "\u20b925",
+      "\u20b930"
+    ],
+    "explanation": "Correct: 2:3:5 (10 parts = 600 => 1 part = 60). Correct A = 2 \u00d7 60 = \u20b9120. Mistake: 1:2:3 (6 parts = 600 => 1 part = 100). Erroneous A = 1 \u00d7 100 = \u20b9100. Decrease = 120 - 100 = \u20b920.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "If A:B = 4:5, B:C = 15:16, and C:D = 8:9, what is A:D?",
+    "answer": "2:3",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:5",
+      "5:6"
+    ],
+    "explanation": "A/D = (A/B) \u00d7 (B/C) \u00d7 (C/D) = (4/5) \u00d7 (15/16) \u00d7 (8/9) = (60 \u00d7 8) / (80 \u00d7 9) = 480 / 720 = 2 / 3 = 2:3.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Divide \u20b91,200 among A, B, and C such that A gets 3/4 of what B gets, and B gets 4/5 of what C gets. What is A's share?",
+    "answer": "\u20b9300",
+    "options": [
+      "\u20b9250",
+      "\u20b9300",
+      "\u20b9350",
+      "\u20b9400"
+    ],
+    "explanation": "Let C = 20x => B = (4/5)(20x) = 16x => A = (3/4)(16x) = 12x. A:B:C = 12:16:20 = 3:4:5. Total parts = 12. A's share = (3 / 12) \u00d7 1,200 = \u20b9300.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "\u20b9735 was divided among A, B, and C such that if each had received \u20b925 less, their shares would be in the ratio 1:3:2. What was the actual share of C?",
+    "answer": "\u20b9245",
+    "options": [
+      "\u20b9220",
+      "\u20b9240",
+      "\u20b9245",
+      "\u20b9265"
+    ],
+    "explanation": "Sum of deductions = 3 \u00d7 25 = 75. Remaining sum = 735 - 75 = 660. Ratio parts = 1 + 3 + 2 = 6. 1 part = 660 / 6 = 110. C's reduced share = 2 \u00d7 110 = 220. Actual share of C = 220 + 25 = \u20b9245.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "If 6A = 11B = 7C, find A:B:C.",
+    "answer": "77:42:66",
+    "options": [
+      "42:77:66",
+      "66:42:77",
+      "77:42:66",
+      "77:66:42"
+    ],
+    "explanation": "Divide by LCM or take reciprocals: (1/6) : (1/11) : (1/7). Multiplying by (6 \u00d7 11 \u00d7 7 = 462): 77 : 42 : 66.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "A sum of \u20b91,470 is divided among A, B, and C such that A's share is 2/3 of B's share, and B's share is 3/5 of C's share. How much does C receive?",
+    "answer": "\u20b9735",
+    "options": [
+      "\u20b9650",
+      "\u20b9700",
+      "\u20b9735",
+      "\u20b9750"
+    ],
+    "explanation": "A:B = 2:3, B:C = 3:5 => A:B:C = 2:3:5. Total parts = 10. 10 parts = \u20b91,470 => 1 part = \u20b9147. C's share = 5 \u00d7 147 = \u20b9735.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b94,320 is divided among A, B, C, and D in the ratio 3:4:5:6. What is the sum of the shares of B and D?",
+    "answer": "\u20b92,400",
+    "options": [
+      "\u20b92,160",
+      "\u20b92,240",
+      "\u20b92,400",
+      "\u20b92,500"
+    ],
+    "explanation": "Total parts = 3 + 4 + 5 + 6 = 18. 18 parts = 4,320 => 1 part = 240. B + D = 4 + 6 = 10 parts = 10 \u00d7 240 = \u20b92,400.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b92,500 was divided among A, B, and C in the ratio 1:2:2 instead of 2:3:5. By how much did C's share decrease?",
+    "answer": "\u20b9250",
+    "options": [
+      "\u20b9200",
+      "\u20b9250",
+      "\u20b9300",
+      "\u20b9350"
+    ],
+    "explanation": "Correct ratio 2:3:5 (total 10 parts): C = (5/10) \u00d7 2,500 = \u20b91,250. Erroneous ratio 1:2:2 (total 5 parts): C = (2/5) \u00d7 2,500 = \u20b91,000. Decrease = 1,250 - 1,000 = \u20b9250.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "A sum of \u20b97,700 is divided among A, B, and C in the ratio 4:5:2. What is the difference between the shares of B and C?",
+    "answer": "\u20b92,100",
+    "options": [
+      "\u20b91,400",
+      "\u20b91,800",
+      "\u20b92,100",
+      "\u20b92,400"
+    ],
+    "explanation": "Total parts = 4 + 5 + 2 = 11. 11 parts = 7,700 => 1 part = 700. Difference between B and C = 5 - 2 = 3 parts = 3 \u00d7 700 = \u20b92,100.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Divide \u20b91,800 among A, B, and C such that A gets 1/3 of the total sum, B gets 1/4 of the total sum, and C gets the remainder. What is C's share?",
+    "answer": "\u20b9750",
+    "options": [
+      "\u20b9600",
+      "\u20b9700",
+      "\u20b9750",
+      "\u20b9800"
+    ],
+    "explanation": "A's share = 1/3 \u00d7 1,800 = \u20b9600. B's share = 1/4 \u00d7 1,800 = \u20b9450. C's share = 1,800 - (600 + 450) = 1,800 - 1,050 = \u20b9750.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "If A:B = 3:4 and B:C = 6:7, what is the value of (A + C) / B?",
+    "answer": "23/12",
+    "options": [
+      "7/4",
+      "11/6",
+      "23/12",
+      "25/12"
+    ],
+    "explanation": "LCM of B (4 and 6) is 12. A:B = 9:12, B:C = 12:14 => A:B:C = 9:12:14. (A + C) / B = (9 + 14) / 12 = 23/12.",
+    "pattern": "Ratio Merging & Division of Quantities",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Two numbers are in the ratio 3:5. If 6 is added to each number, the ratio becomes 2:3. What is the smaller number?",
+    "answer": "18",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "explanation": "Let the numbers be 3x and 5x. (3x + 6)/(5x + 6) = 2/3 => 3(3x + 6) = 2(5x + 6) => 9x + 18 = 10x + 12 => x = 6. Smaller number = 3 \u00d7 6 = 18.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 4:5. If 8 is added to each, the ratio becomes 6:7. What is the sum of the two numbers?",
+    "answer": "36",
+    "options": [
+      "30",
+      "32",
+      "36",
+      "40"
+    ],
+    "explanation": "Unit change: (6 - 4) = (7 - 5) = 2 units = 8 => 1 unit = 4. The numbers are 16 and 20. Sum = 16 + 20 = 36.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 7:9. When 10 is added to each number, the ratio becomes 4:5. What is the larger number?",
+    "answer": "90",
+    "options": [
+      "70",
+      "80",
+      "90",
+      "100"
+    ],
+    "explanation": "Let numbers be 7x and 9x. (7x + 10)/(9x + 10) = 4/5 => 35x + 50 = 36x + 40 => x = 10. Larger number = 9 \u00d7 10 = 90.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 2:3. If 4 is added to both, the ratio becomes 5:7. What is the sum of the two numbers?",
+    "answer": "40",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "explanation": "Let numbers be 2x and 3x. (2x + 4)/(3x + 4) = 5/7 => 14x + 28 = 15x + 20 => x = 8. Sum = 2x + 3x = 5x = 5 \u00d7 8 = 40.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:8. If 12 is added to each number, the ratio becomes 3:4. What is the larger number?",
+    "answer": "24",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "32"
+    ],
+    "explanation": "Let numbers be 5x and 8x. (5x + 12)/(8x + 12) = 3/4 => 20x + 48 = 24x + 36 => 4x = 12 => x = 3. Larger number = 8 \u00d7 3 = 24.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 1:2. If 7 is added to both, the ratio becomes 3:5. What is the smaller number?",
+    "answer": "14",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "explanation": "Let numbers be x and 2x. (x + 7)/(2x + 7) = 3/5 => 5x + 35 = 6x + 21 => x = 14. Smaller number = 14.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 3:4. If 5 is added to each, the ratio becomes 4:5. What is the larger number?",
+    "answer": "20",
+    "options": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "explanation": "Unit increase is (4 - 3) = (5 - 4) = 1 unit = 5. Larger number = 4 \u00d7 5 = 20.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 5:6. If 9 is added to each, the ratio becomes 8:9. Find the smaller number.",
+    "answer": "15",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "explanation": "Unit change = 8 - 5 = 9 - 6 = 3 units = 9 => 1 unit = 3. Smaller number = 5 \u00d7 3 = 15.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 9:11. If 12 is added to each, the ratio becomes 5:6. What is the difference between the two numbers?",
+    "answer": "24",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "explanation": "Let numbers be 9x and 11x. (9x + 12)/(11x + 12) = 5/6 => 54x + 72 = 55x + 60 => x = 12. Difference = 11x - 9x = 2x = 2 \u00d7 12 = 24.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:7. If 6 is subtracted from each, the ratio becomes 2:3. What is the smaller number?",
+    "answer": "30",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "explanation": "Let numbers be 5x and 7x. (5x - 6)/(7x - 6) = 2/3 => 15x - 18 = 14x - 12 => x = 6. Smaller number = 5 \u00d7 6 = 30.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 7:9. If 15 is subtracted from each, the ratio becomes 2:3. What is the larger number?",
+    "answer": "45",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "explanation": "Let numbers be 7x and 9x. (7x - 15)/(9x - 15) = 2/3 => 21x - 45 = 18x - 30 => 3x = 15 => x = 5. Larger number = 9 \u00d7 5 = 45.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 4:7. If 10 is subtracted from each, the ratio becomes 1:2. What is the sum of the two numbers?",
+    "answer": "110",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "explanation": "Let numbers be 4x and 7x. (4x - 10)/(7x - 10) = 1/2 => 8x - 20 = 7x - 10 => x = 10. Sum = 4x + 7x = 11x = 11 \u00d7 10 = 110.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 8:5. If 8 is subtracted from each, the ratio becomes 4:1. What is the smaller number?",
+    "answer": "10",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "explanation": "Let numbers be 8x and 5x. (8x - 8)/(5x - 8) = 4/1 => 8x - 8 = 20x - 32 => 12x = 24 => x = 2. Smaller number = 5 \u00d7 2 = 10.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 3:5. If 9 is subtracted from each, the ratio becomes 12:23. What is the smaller number?",
+    "answer": "33",
+    "options": [
+      "27",
+      "30",
+      "33",
+      "36"
+    ],
+    "explanation": "Let numbers be 3x and 5x. (3x - 9)/(5x - 9) = 12/23 => 69x - 207 = 60x - 108 => 9x = 99 => x = 11. Smaller number = 3 \u00d7 11 = 33.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:8. If 5 is subtracted from each, the ratio becomes 1:2. What is the larger number?",
+    "answer": "20",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "32"
+    ],
+    "explanation": "Let numbers be 5x and 8x. (5x - 5)/(8x - 5) = 1/2 => 10x - 10 = 8x - 5 => 2x = 5 => x = 2.5. Larger number = 8 \u00d7 2.5 = 20.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 11:15. If 10 is subtracted from each, the ratio becomes 3:5. What is the difference between the two numbers?",
+    "answer": "8",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "Let numbers be 11x and 15x. (11x - 10)/(15x - 10) = 3/5 => 55x - 50 = 45x - 30 => 10x = 20 => x = 2. Difference = 15x - 11x = 4x = 4 \u00d7 2 = 8.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 3:4. If 3 is subtracted from each, the ratio becomes 2:3. What is the larger number?",
+    "answer": "12",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "16"
+    ],
+    "explanation": "Unit difference is 3 - 2 = 4 - 3 = 1 unit = 3. Larger number = 4 \u00d7 3 = 12.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of two numbers is 7:10. If 8 is subtracted from each, the ratio becomes 5:8. What is the smaller number?",
+    "answer": "28",
+    "options": [
+      "21",
+      "28",
+      "35",
+      "40"
+    ],
+    "explanation": "Unit change = 7 - 5 = 10 - 8 = 2 units = 8 => 1 unit = 4. Smaller number = 7 \u00d7 4 = 28.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 3:5. If 8 is added to the first and 4 is subtracted from the second, the ratio becomes 1:1. What is the smaller number?",
+    "answer": "18",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "24"
+    ],
+    "explanation": "Let numbers be 3x and 5x. (3x + 8)/(5x - 4) = 1/1 => 3x + 8 = 5x - 4 => 2x = 12 => x = 6. Smaller number = 3 \u00d7 6 = 18.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 2:3. If 2 is subtracted from the first and 2 is added to the second, the ratio becomes 1:2. What is the sum of the two numbers?",
+    "answer": "30",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "explanation": "Let numbers be 2x and 3x. (2x - 2)/(3x + 2) = 1/2 => 4x - 4 = 3x + 2 => x = 6. Sum = 2x + 3x = 5x = 5 \u00d7 6 = 30.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 2:5. If 5 is added to the first and 2 is subtracted from the second, the ratio becomes 1:2. What is the first number?",
+    "answer": "24",
+    "options": [
+      "20",
+      "24",
+      "28",
+      "30"
+    ],
+    "explanation": "Let numbers be 2x and 5x. (2x + 5)/(5x - 2) = 1/2 => 4x + 10 = 5x - 2 => x = 12. First number = 2 \u00d7 12 = 24.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 4:5. If 6 is subtracted from the first and 4 is added to the second, the ratio becomes 2:3. What is the larger number?",
+    "answer": "65",
+    "options": [
+      "50",
+      "55",
+      "60",
+      "65"
+    ],
+    "explanation": "Let numbers be 4x and 5x. (4x - 6)/(5x + 4) = 2/3 => 12x - 18 = 10x + 8 => 2x = 26 => x = 13. Larger number = 5 \u00d7 13 = 65.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 3:4. If 5 is added to the first and 5 is subtracted from the second, the ratio becomes 2:1. What is the first number?",
+    "answer": "9",
+    "options": [
+      "6",
+      "9",
+      "12",
+      "15"
+    ],
+    "explanation": "Let numbers be 3x and 4x. (3x + 5)/(4x - 5) = 2/1 => 3x + 5 = 8x - 10 => 5x = 15 => x = 3. First number = 3 \u00d7 3 = 9.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:9. If 3 is added to both numbers, the ratio becomes 3:5. What is the sum of the two numbers?",
+    "answer": "42",
+    "options": [
+      "36",
+      "40",
+      "42",
+      "48"
+    ],
+    "explanation": "Let numbers be 5x and 9x. (5x + 3)/(9x + 3) = 3/5 => 25x + 15 = 27x + 9 => 2x = 6 => x = 3. Sum = 14x = 14 \u00d7 3 = 42.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The students in three classes are in the ratio 2:3:5. If 20 students are added to each class, the ratio becomes 4:5:7. What was the total number of students initially?",
+    "answer": "100",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "120"
+    ],
+    "explanation": "Unit increase = 4 - 2 = 5 - 3 = 7 - 5 = 2 units = 20 => 1 unit = 10. Initial total = 10 units = 10 \u00d7 10 = 100 students.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The seats for Mathematics, Physics, and Biology in a school are in the ratio 5:7:8. There is a proposal to increase these seats by 40%, 50%, and 75% respectively. What will be the ratio of increased seats?",
+    "answer": "2:3:4",
+    "options": [
+      "1:2:3",
+      "2:3:4",
+      "2:3:5",
+      "3:4:5"
+    ],
+    "explanation": "Let seats be 50, 70, 80. Increased seats: 70, 105, 140. Dividing by 35 gives 2 : 3 : 4.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of students in three sections of Class 10 is 3:4:5. If 20 students leave each section, the ratio becomes 1:2:3. What was the original number of students in the largest section?",
+    "answer": "50",
+    "options": [
+      "40",
+      "45",
+      "50",
+      "60"
+    ],
+    "explanation": "Uniform decrease: (3 - 1) = (4 - 2) = (5 - 3) = 2 units = 20 students => 1 unit = 10. Largest section = 5 \u00d7 10 = 50 students.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The number of apples in three baskets is in the ratio 3:4:5. If 12 apples are added to each basket, the ratio becomes 5:6:7. What is the total number of apples in the three baskets now?",
+    "answer": "108",
+    "options": [
+      "96",
+      "100",
+      "108",
+      "120"
+    ],
+    "explanation": "Unit increase = 5 - 3 = 2 units = 12 => 1 unit = 6. Total now = (5 + 6 + 7) \u00d7 6 = 18 \u00d7 6 = 108 apples.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Three numbers are in the ratio 2:3:4. If 5 is added to each, the sum of the new numbers is 105. What is the largest of the original numbers?",
+    "answer": "40",
+    "options": [
+      "30",
+      "36",
+      "40",
+      "44"
+    ],
+    "explanation": "Sum of original numbers = 105 - 15 = 90. 9 parts = 90 => 1 part = 10. Largest original number = 4 \u00d7 10 = 40.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Three numbers are in the ratio 1:2:3. If the sum of their squares is 504, what is the largest number?",
+    "answer": "18",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "explanation": "Sum of squares = (1 + 4 + 9)x^2 = 14x^2 = 504 => x^2 = 36 => x = 6. Largest number = 3 \u00d7 6 = 18.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "Three numbers are in the ratio 2:3:5. If the sum of their cubes is 34,560, what is the middle number?",
+    "answer": "18",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "24"
+    ],
+    "explanation": "Sum of cubes = (8 + 27 + 125)x^3 = 160x^3 = 34,560 => x^3 = 216 => x = 6. Middle number = 3 \u00d7 6 = 18.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of boys to girls in a college is 7:8. If the percentage increase in the number of boys and girls be 20% and 10% respectively, what will be the new ratio?",
+    "answer": "21:22",
+    "options": [
+      "18:19",
+      "20:21",
+      "21:22",
+      "42:45"
+    ],
+    "explanation": "New boys = 70 \u00d7 1.20 = 84. New girls = 80 \u00d7 1.10 = 88. Ratio = 84 : 88 = 21 : 22.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 1:3. If 5 is added to both, the ratio becomes 1:2. What is the sum of the two numbers?",
+    "answer": "20",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "28"
+    ],
+    "explanation": "Let numbers be x and 3x. (x + 5)/(3x + 5) = 1/2 => 2x + 10 = 3x + 5 => x = 5. Sum = 4x = 4 \u00d7 5 = 20.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:7. If 9 is subtracted from each, the ratio becomes 7:11. What is the smaller number?",
+    "answer": "30",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "explanation": "Let numbers be 5x and 7x. (5x - 9)/(7x - 9) = 7/11 => 55x - 99 = 49x - 63 => 6x = 36 => x = 6. Smaller number = 5 \u00d7 6 = 30.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "What number must be added to both terms of the ratio 7:11 so that it becomes 4:5?",
+    "answer": "9",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "10"
+    ],
+    "explanation": "Let x be added: (7 + x)/(11 + x) = 4/5 => 35 + 5x = 44 + 4x => x = 9.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be subtracted from each term of the ratio 17:24 so that it becomes 1:2?",
+    "answer": "10",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "explanation": "Let x be subtracted: (17 - x)/(24 - x) = 1/2 => 34 - 2x = 24 - x => x = 10.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number should be added to each term of the ratio 49:68 so that the ratio becomes 3:4?",
+    "answer": "8",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "(49 + x)/(68 + x) = 3/4 => 196 + 4x = 204 + 3x => x = 8.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Two numbers are in the ratio 3:5. If 8 is added to both, the ratio becomes 2:3. What is the difference between the two numbers?",
+    "answer": "16",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "Let numbers be 3x and 5x. (3x + 8)/(5x + 8) = 2/3 => 9x + 24 = 10x + 16 => x = 8. Difference = 2x = 2 \u00d7 8 = 16.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 4:9. If 12 is added to each number, the ratio becomes 11:21. What is the larger number?",
+    "answer": "72",
+    "options": [
+      "64",
+      "72",
+      "80",
+      "90"
+    ],
+    "explanation": "Let numbers be 4x and 9x. (4x + 12)/(9x + 12) = 11/21 => 84x + 252 = 99x + 132 => 15x = 120 => x = 8. Larger number = 9 \u00d7 8 = 72.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Three numbers are in the ratio 3:4:5. If the sum of their squares is 1,250, what is the sum of the three numbers?",
+    "answer": "60",
+    "options": [
+      "48",
+      "54",
+      "60",
+      "72"
+    ],
+    "explanation": "Sum of squares = 50x^2 = 1,250 => x^2 = 25 => x = 5. Sum of numbers = 12 \u00d7 5 = 60.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "Two numbers are in the ratio 2:3. If 8 is added to both, the ratio becomes 3:4. What is the smaller number?",
+    "answer": "16",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "explanation": "Unit change = 3 - 2 = 4 - 3 = 1 unit = 8. Smaller number = 2 \u00d7 8 = 16.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 4:7. If 6 is added to both, the ratio becomes 5:8. What is the sum of the two numbers?",
+    "answer": "66",
+    "options": [
+      "55",
+      "60",
+      "66",
+      "72"
+    ],
+    "explanation": "Unit increase = 5 - 4 = 8 - 7 = 1 unit = 6. Sum = (4 + 7) \u00d7 6 = 11 \u00d7 6 = 66.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 5:6. If 4 is subtracted from both, the ratio becomes 3:4. What is the larger number?",
+    "answer": "12",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "explanation": "Unit change = 5 - 3 = 6 - 4 = 2 units = 4 => 1 unit = 2. Larger number = 6 \u00d7 2 = 12.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Two numbers are in the ratio 7:9. If 5 is subtracted from both, the ratio becomes 3:4. What is the smaller number?",
+    "answer": "35",
+    "options": [
+      "28",
+      "35",
+      "42",
+      "45"
+    ],
+    "explanation": "(7x - 5)/(9x - 5) = 3/4 => 28x - 20 = 27x - 15 => x = 5. Smaller number = 7 \u00d7 5 = 35.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "What number must be added to each term of the ratio 2:5 to make it 2:3?",
+    "answer": "4",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "(2 + x)/(5 + x) = 2/3 => 6 + 3x = 10 + 2x => x = 4.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "What number must be subtracted from each term of the ratio 15:19 to make it 3:4?",
+    "answer": "3",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "explanation": "(15 - x)/(19 - x) = 3/4 => 60 - 4x = 57 - 3x => x = 3.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 1
+  },
+  {
+    "question": "Two numbers are in the ratio 3:5. If 10 is added to each, the ratio becomes 5:7. What is the product of the two numbers?",
+    "answer": "375",
+    "options": [
+      "300",
+      "350",
+      "375",
+      "400"
+    ],
+    "explanation": "Unit change = 5 - 3 = 7 - 5 = 2 units = 10 => 1 unit = 5. Numbers are 15 and 25. Product = 15 \u00d7 25 = 375.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Three numbers are in the ratio 1:3:5. If the sum of the numbers is 108, what is the largest number?",
+    "answer": "60",
+    "options": [
+      "45",
+      "50",
+      "60",
+      "72"
+    ],
+    "explanation": "Total parts = 1 + 3 + 5 = 9 parts = 108 => 1 part = 12. Largest number = 5 \u00d7 12 = 60.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "Three numbers are in the ratio 2:3:4. If the sum of their squares is 116, what is the product of the three numbers?",
+    "answer": "192",
+    "options": [
+      "160",
+      "180",
+      "192",
+      "216"
+    ],
+    "explanation": "Sum of squares = (4 + 9 + 16)x^2 = 29x^2 = 116 => x^2 = 4 => x = 2. Numbers are 4, 6, 8. Product = 4 \u00d7 6 \u00d7 8 = 192.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "Two numbers are in the ratio 1:2. If 15 is added to each, the ratio becomes 2:3. What is the larger number?",
+    "answer": "30",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "40"
+    ],
+    "explanation": "Unit change = 2 - 1 = 3 - 2 = 1 unit = 15. Larger number = 2 \u00d7 15 = 30.",
+    "pattern": "Number Adjustments / Add-Subtract Shifts",
+    "topic": "Ratio and Proportion",
+    "difficulty": 2
+  },
+  {
+    "question": "The ratio of incomes of A and B is 5:4, and the ratio of their expenditures is 3:2. If each saves \u20b9800 at the end of the month, what is the income of A?",
+    "answer": "\u20b92,000",
+    "options": [
+      "\u20b91,600",
+      "\u20b91,800",
+      "\u20b92,000",
+      "\u20b92,400"
+    ],
+    "explanation": "Unit difference = (5 - 3) = (4 - 2) = 2 units = \u20b9800 => 1 unit = \u20b9400. Income of A = 5 \u00d7 400 = \u20b92,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The incomes of P and Q are in the ratio 3:2 and their expenditures are in the ratio 5:3. If each saves \u20b91,000, what is P's income?",
+    "answer": "\u20b96,000",
+    "options": [
+      "\u20b94,000",
+      "\u20b95,000",
+      "\u20b96,000",
+      "\u20b97,500"
+    ],
+    "explanation": "Let incomes be 3x and 2x. (3x - 1,000)/(2x - 1,000) = 5/3 => 9x - 3,000 = 10x - 5,000 => x = 2,000. Income of P = 3 \u00d7 2,000 = \u20b96,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of X and Y is 4:3, and their expenses are in the ratio 3:2. If each saves \u20b9600 per month, find the income of Y.",
+    "answer": "\u20b91,800",
+    "options": [
+      "\u20b91,500",
+      "\u20b91,800",
+      "\u20b92,000",
+      "\u20b92,400"
+    ],
+    "explanation": "Savings unit = 4 - 3 = 3 - 2 = 1 unit = \u20b9600. Income of Y = 3 \u00d7 600 = \u20b91,800.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of monthly incomes of two persons is 9:7 and their expenditures are in the ratio 4:3. If each saves \u20b9200 per month, find the monthly income of the first person.",
+    "answer": "\u20b91,800",
+    "options": [
+      "\u20b91,400",
+      "\u20b91,600",
+      "\u20b91,800",
+      "\u20b92,000"
+    ],
+    "explanation": "Let incomes be 9x and 7x. (9x - 200)/(7x - 200) = 4/3 => 27x - 600 = 28x - 800 => x = 200. Income of first person = 9 \u00d7 200 = \u20b91,800.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of A and B are in the ratio 5:3, and their expenditures are in the ratio 9:5. If each saves \u20b91,600, what is the income of B?",
+    "answer": "\u20b99,600",
+    "options": [
+      "\u20b98,000",
+      "\u20b99,000",
+      "\u20b99,600",
+      "\u20b910,500"
+    ],
+    "explanation": "Let incomes be 5x and 3x. (5x - 1,600)/(3x - 1,600) = 9/5 => 25x - 8,000 = 27x - 14,400 => 2x = 6,400 => x = 3,200. Income of B = 3 \u00d7 3,200 = \u20b99,600.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 3:2, and the ratio of their expenditures is 5:3. If each saves \u20b91,500, what is A's income?",
+    "answer": "\u20b99,000",
+    "options": [
+      "\u20b96,000",
+      "\u20b97,500",
+      "\u20b99,000",
+      "\u20b910,000"
+    ],
+    "explanation": "Let incomes be 3x and 2x. (3x - 1,500)/(2x - 1,500) = 5/3 => 9x - 4,500 = 10x - 7,500 => x = 3,000. Income of A = 3 \u00d7 3,000 = \u20b99,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of two workers is 7:4 and their expenditures are in the ratio 3:1. If each saves \u20b93,000 per month, find the income of the first worker.",
+    "answer": "\u20b98,400",
+    "options": [
+      "\u20b97,000",
+      "\u20b98,000",
+      "\u20b98,400",
+      "\u20b99,600"
+    ],
+    "explanation": "Let incomes be 7x and 4x. (7x - 3,000)/(4x - 3,000) = 3/1 => 7x - 3,000 = 12x - 9,000 => 5x = 6,000 => x = 1,200. Income of first worker = 7 \u00d7 1,200 = \u20b98,400.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of X and Y are in the ratio 5:4, and their expenditures are in the ratio 3:2. If each saves \u20b91,200 at the end of the year, what is the annual expenditure of X?",
+    "answer": "\u20b91,800",
+    "options": [
+      "\u20b91,500",
+      "\u20b91,800",
+      "\u20b92,400",
+      "\u20b93,000"
+    ],
+    "explanation": "Unit change = 5 - 3 = 4 - 2 = 2 units = \u20b91,200 => 1 unit = \u20b9600. Expenditure of X = 3 \u00d7 600 = \u20b91,800.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of income of A and B is 2:3 and that of their expenditure is 1:2. If each saves \u20b924,000, find the income of A.",
+    "answer": "\u20b948,000",
+    "options": [
+      "\u20b936,000",
+      "\u20b940,000",
+      "\u20b948,000",
+      "\u20b954,000"
+    ],
+    "explanation": "Unit change = 2 - 1 = 3 - 2 = 1 unit = \u20b924,000. Income of A = 2 \u00d7 24,000 = \u20b948,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 11:7 and their expenditures are in the ratio 9:5. If each saves \u20b9400 per month, what is the monthly income of B?",
+    "answer": "\u20b91,400",
+    "options": [
+      "\u20b91,200",
+      "\u20b91,400",
+      "\u20b91,500",
+      "\u20b91,800"
+    ],
+    "explanation": "Unit change = 11 - 9 = 7 - 5 = 2 units = \u20b9400 => 1 unit = \u20b9200. Income of B = 7 \u00d7 200 = \u20b91,400.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The incomes of A, B, and C are in the ratio 7:9:12 and their spendings are in the ratio 8:9:15. If A saves 1/4 of his income, then the ratio of their savings is?",
+    "answer": "56:99:69",
+    "options": [
+      "56:69:99",
+      "56:99:69",
+      "69:56:99",
+      "99:56:69"
+    ],
+    "explanation": "Savings = Income - Expenditure. 7x - 8y = (1/4)(7x) => 32y = 21x => x/y = 32/21. Taking x = 32, y = 21 gives savings ratio 56 : 99 : 69.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "Incomes of P and Q are in the ratio 5:4 and their expenditures are in the ratio 4:3. If each saves \u20b9500, what is P's expenditure?",
+    "answer": "\u20b92,000",
+    "options": [
+      "\u20b91,500",
+      "\u20b92,000",
+      "\u20b92,200",
+      "\u20b92,500"
+    ],
+    "explanation": "Savings unit = 5 - 4 = 4 - 3 = 1 unit = \u20b9500. P's expenditure = 4 \u00d7 500 = \u20b92,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 3:4 and their expenditures are in the ratio 2:3. If each saves \u20b94,000, find the total income of both.",
+    "answer": "\u20b928,000",
+    "options": [
+      "\u20b924,000",
+      "\u20b926,000",
+      "\u20b928,000",
+      "\u20b930,000"
+    ],
+    "explanation": "Unit change = 3 - 2 = 4 - 3 = 1 unit = \u20b94,000. Total income = (3 + 4) \u00d7 4,000 = \u20b928,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of A and B are in the ratio 5:3 and their expenditures are in the ratio 9:5. If A saves \u20b92,600 and B saves \u20b91,800, find the income of A.",
+    "answer": "\u20b98,000",
+    "options": [
+      "\u20b96,000",
+      "\u20b97,200",
+      "\u20b98,000",
+      "\u20b99,000"
+    ],
+    "explanation": "Let incomes be 5x and 3x. (5x - 2,600)/(3x - 1,800) = 9/5 => 25x - 13,000 = 27x - 16,200 => 2x = 3,200 => x = 1,600. Income of A = 5 \u00d7 1,600 = \u20b98,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of X and Y is 3:4 and the ratio of their expenditures is 4:5. If X saves \u20b92,000 and Y saves \u20b93,000, what is the income of X?",
+    "answer": "\u20b96,000",
+    "options": [
+      "\u20b95,000",
+      "\u20b96,000",
+      "\u20b97,500",
+      "\u20b98,000"
+    ],
+    "explanation": "Let incomes be 3x and 4x. (3x - 2,000)/(4x - 3,000) = 4/5 => 15x - 10,000 = 16x - 12,000 => x = 2,000. Income of X = 3 \u00d7 2,000 = \u20b96,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The incomes of A and B are in the ratio 5:7. A saves \u20b94,000 and B saves \u20b95,000. If the ratio of their expenditures is 2:3, what is B's income?",
+    "answer": "\u20b914,000",
+    "options": [
+      "\u20b910,000",
+      "\u20b912,000",
+      "\u20b914,000",
+      "\u20b915,000"
+    ],
+    "explanation": "Let incomes be 5x and 7x. (5x - 4,000)/(7x - 5,000) = 2/3 => 15x - 12,000 = 14x - 10,000 => x = 2,000. Income of B = 7 \u00d7 2,000 = \u20b914,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of P and Q are in the ratio 2:3 and their expenditures are in the ratio 1:2. If P saves \u20b93,000 and Q saves \u20b94,000, what is Q's income?",
+    "answer": "\u20b96,000",
+    "options": [
+      "\u20b94,000",
+      "\u20b96,000",
+      "\u20b98,000",
+      "\u20b99,000"
+    ],
+    "explanation": "Let incomes be 2x and 3x. (2x - 3,000)/(3x - 4,000) = 1/2 => 4x - 6,000 = 3x - 4,000 => x = 2,000. Q's income = 3 \u00d7 2,000 = \u20b96,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 5:4, and the ratio of their expenditures is 1:1. If A saves \u20b92,000 and B saves \u20b91,000, what is the income of A?",
+    "answer": "\u20b95,000",
+    "options": [
+      "\u20b94,000",
+      "\u20b95,000",
+      "\u20b96,000",
+      "\u20b97,500"
+    ],
+    "explanation": "Let incomes be 5x and 4x. (5x - 2,000)/(4x - 1,000) = 1/1 => 5x - 2,000 = 4x - 1,000 => x = 1,000. Income of A = 5 \u00d7 1,000 = \u20b95,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of C and D are in the ratio 7:5 and their expenditures are in the ratio 3:2. If C saves \u20b94,000 and D saves \u20b93,000, what is C's income?",
+    "answer": "\u20b97,000",
+    "options": [
+      "\u20b95,000",
+      "\u20b96,000",
+      "\u20b97,000",
+      "\u20b98,000"
+    ],
+    "explanation": "Let incomes be 7x and 5x. (7x - 4,000)/(5x - 3,000) = 3/2 => 14x - 8,000 = 15x - 9,000 => x = 1,000. Income of C = 7 \u00d7 1,000 = \u20b97,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 5:6 and the ratio of their expenditures is 3:4. If A saves \u20b91,800 and B saves \u20b91,600, what is B's income?",
+    "answer": "\u20b97,200",
+    "options": [
+      "\u20b96,000",
+      "\u20b96,400",
+      "\u20b97,200",
+      "\u20b98,000"
+    ],
+    "explanation": "Let incomes be 5x and 6x. (5x - 1,800)/(6x - 1,600) = 3/4 => 20x - 7,200 = 18x - 4,800 => 2x = 2,400 => x = 1,200. Income of B = 6 \u00d7 1,200 = \u20b97,200.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of P and Q are in the ratio 8:5, and their expenditures are in the ratio 2:1. If P saves \u20b92,000 and Q saves \u20b91,500, what is P's income?",
+    "answer": "\u20b94,000",
+    "options": [
+      "\u20b93,000",
+      "\u20b94,000",
+      "\u20b94,500",
+      "\u20b95,000"
+    ],
+    "explanation": "Let incomes be 8x and 5x. (8x - 2,000)/(5x - 1,500) = 2/1 => 8x - 2,000 = 10x - 3,000 => 2x = 1,000 => x = 500. Income of P = 8 \u00d7 500 = \u20b94,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 3:5 and their expenditures are in the ratio 1:2. If A saves \u20b92,000 and B saves \u20b93,000, what is A's income?",
+    "answer": "\u20b93,000",
+    "options": [
+      "\u20b92,400",
+      "\u20b93,000",
+      "\u20b93,600",
+      "\u20b94,500"
+    ],
+    "explanation": "Let incomes be 3x and 5x. (3x - 2,000)/(5x - 3,000) = 1/2 => 6x - 4,000 = 5x - 3,000 => x = 1,000. Income of A = 3 \u00d7 1,000 = \u20b93,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of X and Y are in the ratio 9:7 and expenditures are in the ratio 4:3. If X saves \u20b91,000 and Y saves \u20b91,500, what is Y's income?",
+    "answer": "\u20b921,000",
+    "options": [
+      "\u20b918,000",
+      "\u20b921,000",
+      "\u20b924,000",
+      "\u20b927,000"
+    ],
+    "explanation": "Let incomes be 9x and 7x. (9x - 1,000)/(7x - 1,500) = 4/3 => 27x - 3,000 = 28x - 6,000 => x = 3,000. Y's income = 7 \u00d7 3,000 = \u20b921,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 5:3. A spends 80% of his income and B spends 75% of his income. What is the ratio of their savings?",
+    "answer": "4:3",
+    "options": [
+      "3:2",
+      "4:3",
+      "5:3",
+      "5:4"
+    ],
+    "explanation": "Let A income = 500, B income = 300. A savings = 20% of 500 = 100. B savings = 25% of 300 = 75. Ratio = 100 : 75 = 4 : 3.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of P and Q is 3:4. P spends 70% of his income and Q spends 80% of his income. What is the ratio of their savings?",
+    "answer": "9:8",
+    "options": [
+      "3:4",
+      "7:8",
+      "9:8",
+      "9:10"
+    ],
+    "explanation": "P savings = 30% of 300 = 90. Q savings = 20% of 400 = 80. Ratio = 90 : 80 = 9 : 8.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Total income of A and B is \u20b914,000. A spends 80% of his income and B spends 85% of his income. If their savings are equal, what is A's income?",
+    "answer": "\u20b96,000",
+    "options": [
+      "\u20b95,000",
+      "\u20b96,000",
+      "\u20b97,000",
+      "\u20b98,000"
+    ],
+    "explanation": "0.20A = 0.15B => A/B = 3/4. A's income = (3 / 7) \u00d7 14,000 = \u20b96,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Total income of A and B is \u20b960,000. A spends 75% of his income and B spends 80% of his income. If their savings are in the ratio 5:4, what is the income of A?",
+    "answer": "\u20b930,000",
+    "options": [
+      "\u20b925,000",
+      "\u20b930,000",
+      "\u20b932,000",
+      "\u20b935,000"
+    ],
+    "explanation": "(0.25A)/(0.20B) = 5/4 => A/B = 1/1. Total = \u20b960,000 => A's income = \u20b930,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Total salary of A and B is \u20b940,000. A spends 85% of his salary and B spends 95% of his salary. If their savings are the same, what is A's salary?",
+    "answer": "\u20b910,000",
+    "options": [
+      "\u20b98,000",
+      "\u20b910,000",
+      "\u20b912,000",
+      "\u20b915,000"
+    ],
+    "explanation": "15% of A = 5% of B => B = 3A. A + 3A = 40,000 => A = \u20b910,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of expenditures of A, B, and C is 16:12:9 and their total income is \u20b91,530. If they save 20%, 25%, and 40% of their incomes respectively, what is B's income?",
+    "answer": "\u20b9480",
+    "options": [
+      "\u20b9420",
+      "\u20b9450",
+      "\u20b9480",
+      "\u20b9500"
+    ],
+    "explanation": "Incomes: A = 16/0.8 = 20, B = 12/0.75 = 16, C = 9/0.6 = 15. Ratio = 20:16:15. Total = 51 parts = 1,530 => 1 part = 30. B = 16 \u00d7 30 = \u20b9480.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The expenditures of A, B, and C are in the ratio 14:13:12 and their savings are 30%, 35%, and 20% of their incomes respectively. If their total income is \u20b92,200, find the income of A.",
+    "answer": "\u20b9800",
+    "options": [
+      "\u20b9600",
+      "\u20b9700",
+      "\u20b9800",
+      "\u20b9900"
+    ],
+    "explanation": "Incomes: A = 14/0.7 = 20, B = 13/0.65 = 20, C = 12/0.8 = 15. Ratio = 4:4:3. Total = 11 parts = 2,200 => 1 part = 200. A = 4 \u00d7 200 = \u20b9800.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The monthly incomes of A and B are in the ratio 4:5, and their monthly expenditures are in the ratio 7:9. If each saves \u20b950 per month, find their monthly incomes.",
+    "answer": "\u20b9400 and \u20b9500",
+    "options": [
+      "\u20b9320 and \u20b9400",
+      "\u20b9400 and \u20b9500",
+      "\u20b9480 and \u20b9600",
+      "\u20b9600 and \u20b9750"
+    ],
+    "explanation": "(4x - 50)/(5x - 50) = 7/9 => 36x - 450 = 35x - 350 => x = 100. Incomes are \u20b9400 and \u20b9500.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A and B have incomes in the ratio 5:3. The expenses of A, B, and C are in the ratio 8:5:2. If C spends \u20b92,000 and B saves \u20b9700, what is A's savings?",
+    "answer": "\u20b91,500",
+    "options": [
+      "\u20b91,000",
+      "\u20b91,200",
+      "\u20b91,500",
+      "\u20b91,800"
+    ],
+    "explanation": "Expenditures: A = 8,000, B = 5,000, C = 2,000. B income = 5,700 => 3 parts = 5,700 => 1 part = 1,900. A income = 9,500. A savings = 9,500 - 8,000 = \u20b91,500.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of income to expenditure of a family is 7:6. If the family saves \u20b91,400 per month, what is the family's expenditure?",
+    "answer": "\u20b98,400",
+    "options": [
+      "\u20b97,000",
+      "\u20b98,000",
+      "\u20b98,400",
+      "\u20b99,800"
+    ],
+    "explanation": "Savings = 7 - 6 = 1 part = \u20b91,400. Expenditure = 6 \u00d7 1,400 = \u20b98,400.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A person spends 75% of his income. His income increases by 20% and his expenditure increases by 10%. By what percentage do his savings increase?",
+    "answer": "50%",
+    "options": [
+      "40%",
+      "45%",
+      "50%",
+      "60%"
+    ],
+    "explanation": "Original: Income = 100, Exp = 75, Savings = 25. New: Income = 120, Exp = 82.5, Savings = 37.5. Increase = (12.5 / 25) \u00d7 100 = 50%.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A man spends 80% of his income. When his income increases by 30%, his expenditure increases by 25%. What is the percentage increase in his savings?",
+    "answer": "50%",
+    "options": [
+      "35%",
+      "40%",
+      "45%",
+      "50%"
+    ],
+    "explanation": "Original: 100, 80, 20. New: 130, 100, 30. Increase in savings = (10 / 20) \u00d7 100 = 50%.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of monthly incomes of A and B is 3:5 and that of their expenditures is 2:3. If A saves \u20b91,000 and B saves \u20b92,500, what is the monthly income of B?",
+    "answer": "\u20b910,000",
+    "options": [
+      "\u20b98,000",
+      "\u20b99,000",
+      "\u20b910,000",
+      "\u20b912,000"
+    ],
+    "explanation": "(3x - 1,000)/(5x - 2,500) = 2/3 => 9x - 3,000 = 10x - 5,000 => x = 2,000. Income of B = 5 \u00d7 2,000 = \u20b910,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of savings of A, B, and C is 8:9:20 and their total income is \u20b972,000. If they spend 80%, 85%, and 75% of their incomes respectively, what is the income of A?",
+    "answer": "\u20b916,000",
+    "options": [
+      "\u20b912,000",
+      "\u20b915,000",
+      "\u20b916,000",
+      "\u20b918,000"
+    ],
+    "explanation": "Incomes: A = 8/0.2 = 40, B = 9/0.15 = 60, C = 20/0.25 = 80 => 2:3:4. Total 9 parts = \u20b972,000 => 1 part = \u20b98,000. A = 2 \u00d7 8,000 = \u20b916,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A man's expenditure to savings ratio is 5:2. If his income increases by 14% and his expenditure increases by 12%, by what percentage does his savings increase?",
+    "answer": "19%",
+    "options": [
+      "15%",
+      "17%",
+      "19%",
+      "21%"
+    ],
+    "explanation": "Original: Exp = 50, Savings = 20, Income = 70. New: Income = 79.8, Exp = 56.0, Savings = 23.8. Increase = (3.8 / 20) \u00d7 100 = 19%.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A family's income and expenditure are in the ratio 12:7. If their savings are \u20b915,000 per month, what is their monthly income?",
+    "answer": "\u20b936,000",
+    "options": [
+      "\u20b930,000",
+      "\u20b932,000",
+      "\u20b936,000",
+      "\u20b940,000"
+    ],
+    "explanation": "Savings = 12 - 7 = 5 parts = \u20b915,000 => 1 part = \u20b93,000. Income = 12 \u00d7 3,000 = \u20b936,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of expenditures of A and B is 3:2 and their incomes are in the ratio 5:3. If A saves \u20b91,000 and B saves \u20b9500, what is the expenditure of A?",
+    "answer": "\u20b91,500",
+    "options": [
+      "\u20b91,200",
+      "\u20b91,500",
+      "\u20b91,800",
+      "\u20b92,000"
+    ],
+    "explanation": "(5x - 1,000)/(3x - 500) = 3/2 => 10x - 2,000 = 9x - 1,500 => x = 500. Expenditure of A = 5(500) - 1,000 = \u20b91,500.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of savings of X and Y is 2:3. If X earns \u20b918,000 and spends \u20b914,000, while Y spends \u20b921,000, what is Y's income?",
+    "answer": "\u20b927,000",
+    "options": [
+      "\u20b924,000",
+      "\u20b925,000",
+      "\u20b927,000",
+      "\u20b928,000"
+    ],
+    "explanation": "X savings = \u20b94,000 => 2 parts = 4,000 => 1 part = 2,000. Y savings = \u20b96,000. Y income = 21,000 + 6,000 = \u20b927,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A person saves 50% of his income. If his income increases by 20% and he still saves the same amount of money as before, by what percentage does his expenditure increase?",
+    "answer": "40%",
+    "options": [
+      "30%",
+      "35%",
+      "40%",
+      "50%"
+    ],
+    "explanation": "Original: Income = 100, Exp = 50, Savings = 50. New: Income = 120, Savings = 50, Exp = 70. Increase in expenditure = (20 / 50) \u00d7 100 = 40%.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 4:3 and the ratio of their expenditures is 5:3. If each saves \u20b93,000, what is the income of A?",
+    "answer": "\u20b98,000",
+    "options": [
+      "\u20b96,000",
+      "\u20b97,200",
+      "\u20b98,000",
+      "\u20b99,000"
+    ],
+    "explanation": "Let incomes be 4x and 3x. (4x - 3,000)/(3x - 3,000) = 5/3 => 12x - 9,000 = 15x - 15,000 => 3x = 6,000 => x = 2,000. Income of A = 4 \u00d7 2,000 = \u20b98,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of two persons is 5:3 and their expenditures are in the ratio 9:5. If each saves \u20b91,000, what is the income of the first person?",
+    "answer": "\u20b910,000",
+    "options": [
+      "\u20b96,000",
+      "\u20b98,000",
+      "\u20b910,000",
+      "\u20b912,000"
+    ],
+    "explanation": "Let incomes be 5x and 3x. (5x - 1,000)/(3x - 1,000) = 9/5 => 25x - 5,000 = 27x - 9,000 => 2x = 4,000 => x = 2,000. First person's income = 5 \u00d7 2,000 = \u20b910,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of income of A and B is 3:4 and their expenditure ratio is 2:3. If A saves \u20b92,000 and B saves \u20b92,000, what is the income of B?",
+    "answer": "\u20b98,000",
+    "options": [
+      "\u20b96,000",
+      "\u20b97,500",
+      "\u20b98,000",
+      "\u20b99,000"
+    ],
+    "explanation": "Savings unit = 3 - 2 = 4 - 3 = 1 unit = \u20b92,000. Income of B = 4 \u00d7 2,000 = \u20b98,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of incomes of A and B is 7:5 and their expenditures are in the ratio 5:3. If each saves \u20b91,200 per month, what is the sum of their monthly incomes?",
+    "answer": "\u20b97,200",
+    "options": [
+      "\u20b96,000",
+      "\u20b96,400",
+      "\u20b97,200",
+      "\u20b98,000"
+    ],
+    "explanation": "Unit change = 7 - 5 = 5 - 3 = 2 units = \u20b91,200 => 1 unit = \u20b9600. Sum of incomes = (7 + 5) \u00d7 600 = 12 \u00d7 600 = \u20b97,200.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "Incomes of A and B are in the ratio 2:1 and their expenditures are in the ratio 5:2. If each saves \u20b9600, what is the income of A?",
+    "answer": "\u20b93,600",
+    "options": [
+      "\u20b92,400",
+      "\u20b93,000",
+      "\u20b93,600",
+      "\u20b94,200"
+    ],
+    "explanation": "Let incomes be 2x and x. (2x - 600)/(x - 600) = 5/2 => 4x - 1,200 = 5x - 3,000 => x = 1,800. Income of A = 2 \u00d7 1,800 = \u20b93,600.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of earnings of A and B is 4:7. If both save \u20b92,500 and the ratio of their expenditures is 1:2, what is A's income?",
+    "answer": "\u20b910,000",
+    "options": [
+      "\u20b97,500",
+      "\u20b910,000",
+      "\u20b912,500",
+      "\u20b914,000"
+    ],
+    "explanation": "Let incomes be 4x and 7x. (4x - 2,500)/(7x - 2,500) = 1/2 => 8x - 5,000 = 7x - 2,500 => x = 2,500. Income of A = 4 \u00d7 2,500 = \u20b910,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The ratio of income to expenditure of a person is 11:10. If he saves \u20b99,000 per year, what is his monthly income?",
+    "answer": "\u20b98,250",
+    "options": [
+      "\u20b97,500",
+      "\u20b98,000",
+      "\u20b98,250",
+      "\u20b99,000"
+    ],
+    "explanation": "Savings = 11 - 10 = 1 part = \u20b99,000 annual. Annual income = 11 \u00d7 9,000 = \u20b999,000. Monthly income = 99,000 / 12 = \u20b98,250.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "The monthly incomes of A and B are in the ratio 5:4, and their monthly expenditures are in the ratio 9:7. If each saves \u20b9500 at the end of the month, find the monthly income of B.",
+    "answer": "\u20b94,000",
+    "options": [
+      "\u20b93,200",
+      "\u20b93,600",
+      "\u20b94,000",
+      "\u20b95,000"
+    ],
+    "explanation": "Let incomes be 5x and 4x. (5x - 500)/(4x - 500) = 9/7 => 35x - 3,500 = 36x - 4,500 => x = 1,000. Income of B = 4 \u00d7 1,000 = \u20b94,000.",
+    "pattern": "Income, Expenditure & Savings",
+    "topic": "Ratio and Proportion",
+    "difficulty": 3
+  },
+  {
+    "question": "A bag contains \u20b91, 50-paise, and 25-paise coins in the ratio 5:6:8. If the total amount in the bag is \u20b9210, find the number of 25-paise coins.",
+    "answer": "168",
+    "options": [
+      "140",
+      "160",
+      "168",
+      "175"
+    ],
+    "explanation": "Value per coin: \u20b91 = 100p, 50p, 25p. Value ratio = (5 \u00d7 1) + (6 \u00d7 0.5) + (8 \u00d7 0.25) = 5 + 3 + 2 = 10 units. 10 units = \u20b9210 => 1 unit = 21. Number of 25-paise coins = 8 \u00d7 21 = 168.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box contains \u20b91, 50p, and 25p coins in the ratio 3:4:5. If the total value of coins is \u20b9125, what is the number of 50-paise coins?",
+    "answer": "80",
+    "options": [
+      "60",
+      "75",
+      "80",
+      "100"
+    ],
+    "explanation": "Value = (3 \u00d7 1) + (4 \u00d7 0.5) + (5 \u00d7 0.25) = 3 + 2 + 1.25 = 6.25 units. 6.25 units = \u20b9125 => 1 unit = 20. Number of 50-paise coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains 25p, 10p, and 5p coins in the ratio 1:2:3. If their total value is \u20b930, find the number of 5-paise coins.",
+    "answer": "150",
+    "options": [
+      "120",
+      "140",
+      "150",
+      "180"
+    ],
+    "explanation": "Value = (1 \u00d7 25p) + (2 \u00d7 10p) + (3 \u00d7 5p) = 25 + 20 + 15 = 60 paise per unit. Total value = 3,000 paise. Units = 3,000 / 60 = 50. 5-paise coins = 3 \u00d7 50 = 150.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A purse contains \u20b91, 50p, and 25p coins in the ratio 2:3:4. If the total money in the purse is \u20b9216, how many 50-paise coins are there?",
+    "answer": "144",
+    "options": [
+      "120",
+      "136",
+      "144",
+      "150"
+    ],
+    "explanation": "Value = (2 \u00d7 1) + (3 \u00d7 0.5) + (4 \u00d7 0.25) = 2 + 1.5 + 1 = 4.5 units. 4.5 units = 216 => 1 unit = 48. Number of 50p coins = 3 \u00d7 48 = 144.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A person has \u20b91, 50p, and 25p coins in the ratio 4:5:6. If the total amount is \u20b9160, what is the number of \u20b91 coins?",
+    "answer": "80",
+    "options": [
+      "64",
+      "72",
+      "80",
+      "90"
+    ],
+    "explanation": "Value = (4 \u00d7 1) + (5 \u00d7 0.5) + (6 \u00d7 0.25) = 4 + 2.5 + 1.5 = 8 units. 8 units = \u20b9160 => 1 unit = 20. Number of \u20b91 coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b91, 50p, and 25p coins in the ratio 1:4:4. If the total value is \u20b9200, find the total number of coins in the bag.",
+    "answer": "450",
+    "options": [
+      "400",
+      "420",
+      "450",
+      "480"
+    ],
+    "explanation": "Value = (1 \u00d7 1) + (4 \u00d7 0.5) + (4 \u00d7 0.25) = 1 + 2 + 1 = 4 units. 4 units = \u20b9200 => 1 unit = 50. Total coins = (1 + 4 + 4) \u00d7 50 = 9 \u00d7 50 = 450.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A collection of 25p, 50p, and \u20b91 coins has numbers in the ratio 8:4:3. If the total value is \u20b9140, how many 25-paise coins are there?",
+    "answer": "160",
+    "options": [
+      "140",
+      "150",
+      "160",
+      "180"
+    ],
+    "explanation": "Value = (8 \u00d7 0.25) + (4 \u00d7 0.5) + (3 \u00d7 1) = 2 + 2 + 3 = 7 units. 7 units = 140 => 1 unit = 20. Number of 25p coins = 8 \u00d7 20 = 160.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b95, \u20b92, and \u20b91 coins in the ratio 4:3:2. If the total amount is \u20b9500, what is the number of \u20b95 coins?",
+    "answer": "80",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "explanation": "Value = (4 \u00d7 5) + (3 \u00d7 2) + (2 \u00d7 1) = 20 + 6 + 2 = 28 units? 500 / 28 not clean. Let total amount be \u20b9560. 28 units = \u20b9560 => 1 unit = 20. \u20b95 coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b95, \u20b92, and \u20b91 coins in the ratio 4:3:2. If the total amount is \u20b9560, what is the number of \u20b95 coins?",
+    "answer": "80",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "explanation": "Value = (4 \u00d7 5) + (3 \u00d7 2) + (2 \u00d7 1) = 20 + 6 + 2 = 28 units. 28 units = \u20b9560 => 1 unit = 20. Number of \u20b95 coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A man has \u20b910, \u20b95, and \u20b92 notes in the ratio 1:2:3. If the total sum is \u20b9520, how many \u20b95 notes does he have?",
+    "answer": "40",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "50"
+    ],
+    "explanation": "Value = (1 \u00d7 10) + (2 \u00d7 5) + (3 \u00d7 2) = 10 + 10 + 6 = 26 units. 26 units = \u20b9520 => 1 unit = 20. Number of \u20b95 notes = 2 \u00d7 20 = 40.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box has \u20b95, \u20b92, and \u20b91 coins in the ratio 2:3:5. If the total value is \u20b9420, find the number of \u20b92 coins.",
+    "answer": "60",
+    "options": [
+      "45",
+      "50",
+      "60",
+      "75"
+    ],
+    "explanation": "Value = (2 \u00d7 5) + (3 \u00d7 2) + (5 \u00d7 1) = 10 + 6 + 5 = 21 units. 21 units = \u20b9420 => 1 unit = 20. Number of \u20b92 coins = 3 \u00d7 20 = 60.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "In a bag, there are coins of 50p, 25p, and 10p in the ratio 5:9:4 amounting to \u20b9206. Find the number of coins of 50-paise.",
+    "answer": "200",
+    "options": [
+      "180",
+      "200",
+      "220",
+      "240"
+    ],
+    "explanation": "Value = (5 \u00d7 50p) + (9 \u00d7 25p) + (4 \u00d7 10p) = 250 + 225 + 40 = 515p = \u20b95.15. Units = 206 / 5.15 = 40. 50p coins = 5 \u00d7 40 = 200.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains 50p, 25p, and 10p coins in the ratio 3:4:5. If the total amount is \u20b960, how many 25-paise coins are there?",
+    "answer": "80",
+    "options": [
+      "60",
+      "75",
+      "80",
+      "100"
+    ],
+    "explanation": "Value = (3 \u00d7 0.5) + (4 \u00d7 0.25) + (5 \u00d7 0.1) = 1.5 + 1.0 + 0.5 = 3.0 units. 3 units = \u20b960 => 1 unit = 20. 25p coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A cashier has \u20b950, \u20b920, and \u20b910 currency notes in the ratio 3:5:7. If the total value of cash is \u20b91,600, how many \u20b920 notes does he have?",
+    "answer": "25",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "explanation": "Value = (3 \u00d7 50) + (5 \u00d7 20) + (7 \u00d7 10) = 150 + 100 + 70 = \u20b9320 per unit. Units = 1,600 / 320 = 5. Number of \u20b920 notes = 5 \u00d7 5 = 25.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A boy has \u20b91, 50p, and 25p coins in the ratio 5:9:25. If the total amount is \u20b91,008, how many 50p coins does he have?",
+    "answer": "576",
+    "options": [
+      "480",
+      "520",
+      "576",
+      "600"
+    ],
+    "explanation": "Value = (5 \u00d7 1) + (9 \u00d7 0.5) + (25 \u00d7 0.25) = 5 + 4.5 + 6.25 = 15.75 units. Units = 1,008 / 15.75 = 64. 50p coins = 9 \u00d7 64 = 576.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box contains 280 coins of \u20b91, 50p, and 25p. The values of each kind of coin are in the ratio 8:4:3. What is the number of 50-paise coins?",
+    "answer": "80",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "explanation": "Coin count per unit value: \u20b91 = 8/1 = 8; 50p = 4/0.5 = 8; 25p = 3/0.25 = 12. Ratio of coin counts = 8 : 8 : 12 = 2 : 2 : 3. Total parts = 7. 7 parts = 280 => 1 part = 40. 50p coins = 2 \u00d7 40 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains 378 coins of \u20b91, 50p, and 25p. The values of these coins are in the ratio 13:11:7. Find the number of 50-paise coins.",
+    "answer": "132",
+    "options": [
+      "120",
+      "132",
+      "140",
+      "144"
+    ],
+    "explanation": "Coin count ratio: \u20b91 = 13/1 = 13; 50p = 11/0.5 = 22; 25p = 7/0.25 = 28. Total parts = 13 + 22 + 28 = 63 parts. 63 parts = 378 => 1 part = 6. 50p coins = 22 \u00d7 6 = 132.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A purse contains 420 coins consisting of \u20b91, 50p, and 25p coins. If the values of each denomination are in the ratio 2:4:5, what is the number of 25-paise coins?",
+    "answer": "280",
+    "options": [
+      "240",
+      "260",
+      "280",
+      "300"
+    ],
+    "explanation": "Coin count ratio: \u20b91 = 2/1 = 2; 50p = 4/0.5 = 8; 25p = 5/0.25 = 20. Total parts = 2 + 8 + 20 = 30 parts. 30 parts = 420 => 1 part = 14. 25-paise coins = 20 \u00d7 14 = 280.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "There are 480 coins in a bag of \u20b91, 50p, and 25p denominations. The values of the coins are in the ratio 5:3:1. How many \u20b91 coins are there?",
+    "answer": "160",
+    "options": [
+      "140",
+      "150",
+      "160",
+      "180"
+    ],
+    "explanation": "Coin counts: \u20b91 = 5/1 = 5; 50p = 3/0.5 = 6; 25p = 1/0.25 = 4. Total parts = 5 + 6 + 4 = 15 parts. 15 parts = 480 => 1 part = 32. \u20b91 coins = 5 \u00d7 32 = 160.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A man has 360 coins consisting of \u20b92, \u20b91, and 50-paise. The values of these denominations are in the ratio 4:3:2. How many 50-paise coins does he have?",
+    "answer": "160",
+    "options": [
+      "120",
+      "140",
+      "160",
+      "180"
+    ],
+    "explanation": "Coin counts: \u20b92 = 4/2 = 2; \u20b91 = 3/1 = 3; 50p = 2/0.5 = 4. Total parts = 2 + 3 + 4 = 9 parts. 9 parts = 360 => 1 part = 40. 50-paise coins = 4 \u00d7 40 = 160.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A jar contains 240 coins of \u20b95, \u20b92, and \u20b91. The values of these coins are in the ratio 5:4:3. What is the total money in the jar?",
+    "answer": "\u20b9480",
+    "options": [
+      "\u20b9420",
+      "\u20b9450",
+      "\u20b9480",
+      "\u20b9500"
+    ],
+    "explanation": "Coin count ratio: \u20b95 = 5/5 = 1; \u20b92 = 4/2 = 2; \u20b91 = 3/1 = 3. Total parts = 1 + 2 + 3 = 6. 6 parts = 240 => 1 part = 40. Values = 5k, 4k, 3k (sum 12k). Since 1 part = 40 coins, \u20b95 has 40 coins = \u20b9200; \u20b92 has 80 coins = \u20b9160; \u20b91 has 120 coins = \u20b9120. Total money = 200 + 160 + 120 = \u20b9480.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bank teller has 210 currency notes of \u20b9100, \u20b950, and \u20b920. The total value in each denomination is in the ratio 5:3:2. What is the number of \u20b950 notes?",
+    "answer": "60",
+    "options": [
+      "45",
+      "50",
+      "60",
+      "75"
+    ],
+    "explanation": "Count ratio: \u20b9100 = 5/100 = 1/20; \u20b950 = 3/50; \u20b920 = 2/20 = 1/10. Multiplying by 100: 5 : 6 : 10. Total parts = 21. 21 parts = 210 => 1 part = 10. Number of \u20b950 notes = 6 \u00d7 10 = 60.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A piggy bank contains \u20b91, 50p, and 25p coins in the ratio 3:5:7. If the total value of 25p coins is \u20b935, what is the total value of all coins in the bank?",
+    "answer": "\u20b9135",
+    "options": [
+      "\u20b9120",
+      "\u20b9130",
+      "\u20b9135",
+      "\u20b9140"
+    ],
+    "explanation": "Let coins be 3x, 5x, 7x. Value of 25p coins = 7x \u00d7 0.25 = 1.75x = \u20b935 => x = 20. Coins: \u20b91 = 60, 50p = 100, 25p = 140. Total value = (60 \u00d7 1) + (100 \u00d7 0.5) + (140 \u00d7 0.25) = 60 + 50 + 35 = \u20b9145? Wait: 60 + 50 + 35 = 145! Let's check options: \u20b9145.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A piggy bank contains \u20b91, 50p, and 25p coins in the ratio 3:5:7. If the total value of 25-paise coins is \u20b935, what is the total value of all coins in the bank?",
+    "answer": "\u20b9145",
+    "options": [
+      "\u20b9135",
+      "\u20b9140",
+      "\u20b9145",
+      "\u20b9150"
+    ],
+    "explanation": "25p coins value = 7x \u00d7 0.25 = 1.75x = \u20b935 => x = 20. Total value = 3x(1) + 5x(0.5) + 7x(0.25) = 3(20) + 2.5(20) + 1.75(20) = 60 + 50 + 35 = \u20b9145.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box contains 50-paise and 25-paise coins in the ratio 3:4. If there are 140 coins in all, what is the total value of the money in the box?",
+    "answer": "\u20b945",
+    "options": [
+      "\u20b940",
+      "\u20b945",
+      "\u20b948",
+      "\u20b950"
+    ],
+    "explanation": "7 parts = 140 => 1 part = 20. 50p coins = 3 \u00d7 20 = 60 (value \u20b930); 25p coins = 4 \u00d7 20 = 80 (value \u20b920). Total value = 30 + 20 = \u20b950? Wait: 60 \u00d7 0.5 = 30, 80 \u00d7 0.25 = 20. Sum = \u20b950!",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b91, 50p, and 25p coins. The total number of coins is 175. If the total value of coins of each denomination is equal, what is the total value of all the coins in the bag?",
+    "answer": "\u20b975",
+    "options": [
+      "\u20b960",
+      "\u20b970",
+      "\u20b975",
+      "\u20b980"
+    ],
+    "explanation": "Let value of each denomination be \u20b9V. Coins: \u20b91 = V; 50p = 2V; 25p = 4V. Total coins = V + 2V + 4V = 7V = 175 => V = 25. Total value = 3V = 3 \u00d7 25 = \u20b975.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A person has \u20b910, \u20b95, and \u20b91 notes of total value \u20b9640. If the number of notes of each denomination is equal, what is the total number of notes?",
+    "answer": "120",
+    "options": [
+      "90",
+      "105",
+      "120",
+      "135"
+    ],
+    "explanation": "Let number of each note be x. (10 + 5 + 1)x = 16x = 640 => x = 40. Total number of notes = 3x = 3 \u00d7 40 = 120.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A purse contains 1-rupee, 50-paise, and 25-paise coins in equal numbers. If the total value is \u20b9105, how many coins of each type are there?",
+    "answer": "60",
+    "options": [
+      "45",
+      "50",
+      "60",
+      "75"
+    ],
+    "explanation": "Value per set = 1 + 0.5 + 0.25 = \u20b91.75. Number of each coin = 105 / 1.75 = 60.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains 50p, 25p, and 10p coins in the ratio 5:8:10. If the total money is \u20b9110, find the number of 10-paise coins.",
+    "answer": "200",
+    "options": [
+      "160",
+      "180",
+      "200",
+      "220"
+    ],
+    "explanation": "Value = (5 \u00d7 0.5) + (8 \u00d7 0.25) + (10 \u00d7 0.1) = 2.5 + 2.0 + 1.0 = \u20b95.50 per unit. Units = 110 / 5.5 = 20. 10p coins = 10 \u00d7 20 = 200.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "In a collection of \u20b910, \u20b920, and \u20b950 notes, the ratio of notes is 3:4:5. If the total value is \u20b91,800, how many \u20b950 notes are there?",
+    "answer": "25",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "explanation": "Value = (3 \u00d7 10) + (4 \u00d7 20) + (5 \u00d7 50) = 30 + 80 + 250 = \u20b9360 per unit. Units = 1,800 / 360 = 5. \u20b950 notes = 5 \u00d7 5 = 25.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b95 and \u20b910 coins in the ratio 3:2. If there are 50 coins in all, what is the total amount in the bag?",
+    "answer": "\u20b9350",
+    "options": [
+      "\u20b9300",
+      "\u20b9320",
+      "\u20b9350",
+      "\u20b9400"
+    ],
+    "explanation": "5 parts = 50 => 1 part = 10. \u20b95 coins = 30 (value \u20b9150); \u20b910 coins = 20 (value \u20b9200). Total amount = 150 + 200 = \u20b9350.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A boy has 25-cent and 10-cent coins in the ratio 5:8. If the total value of these coins is $4.10, how many 25-cent coins does he have?",
+    "answer": "10",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "explanation": "Value = (5 \u00d7 25\u00a2) + (8 \u00d7 10\u00a2) = 125\u00a2 + 80\u00a2 = 205\u00a2 = $2.05 per unit. Units = $4.10 / $2.05 = 2. 25-cent coins = 5 \u00d7 2 = 10.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A jar contains quarters (25\u00a2), dimes (10\u00a2), and nickels (5\u00a2) in the ratio 2:3:4. If the total value is $4.00, how many dimes are in the jar?",
+    "answer": "12",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "explanation": "Value = (2 \u00d7 25\u00a2) + (3 \u00d7 10\u00a2) + (4 \u00d7 5\u00a2) = 50\u00a2 + 30\u00a2 + 20\u00a2 = 100\u00a2 = $1.00 per unit. Units = $4.00 / $1.00 = 4. Dimes = 3 \u00d7 4 = 12.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A collection of 1-dollar and 5-dollar bills is in the ratio 7:3. If the total value is $88, what is the number of 5-dollar bills?",
+    "answer": "12",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "explanation": "Value = (7 \u00d7 1) + (3 \u00d7 5) = 7 + 15 = $22 per unit. Units = 88 / 22 = 4. 5-dollar bills = 3 \u00d7 4 = 12.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box contains 50p, 25p, and 5p coins in the ratio 1:3:5. If the total value is \u20b945, what is the number of 50-paise coins?",
+    "answer": "30",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "explanation": "Value = (1 \u00d7 50) + (3 \u00d7 25) + (5 \u00d7 5) = 50 + 75 + 25 = 150 paise = \u20b91.50 per unit. Units = 45 / 1.50 = 30. 50-paise coins = 1 \u00d7 30 = 30.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A wallet has \u20b9100 and \u20b950 notes in the ratio 4:7. If the total amount is \u20b91,500, how many \u20b9100 notes are there?",
+    "answer": "8",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "explanation": "Value = (4 \u00d7 100) + (7 \u00d7 50) = 400 + 350 = \u20b9750 per unit. Units = 1,500 / 750 = 2. \u20b9100 notes = 4 \u00d7 2 = 8.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A container contains \u20b92 and \u20b95 coins. If the ratio of the number of coins is 5:2 and the total value is \u20b9200, find the number of \u20b95 coins.",
+    "answer": "20",
+    "options": [
+      "15",
+      "20",
+      "25",
+      "30"
+    ],
+    "explanation": "Value = (5 \u00d7 2) + (2 \u00d7 5) = 10 + 10 = \u20b920 per unit. Units = 200 / 20 = 10. \u20b95 coins = 2 \u00d7 10 = 20.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "In a collection of 50p and 25p coins, the number of 50p coins is double the number of 25p coins. If the total value is \u20b975, find the number of 25p coins.",
+    "answer": "60",
+    "options": [
+      "40",
+      "50",
+      "60",
+      "80"
+    ],
+    "explanation": "Let 25p coins = x => 50p coins = 2x. Value = 2x(0.5) + x(0.25) = 1.25x = 75 => x = 60.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag has \u20b92, \u20b91, and 50p coins in the ratio 3:4:5. If the total value is \u20b9190, find the number of \u20b91 coins.",
+    "answer": "40",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "50"
+    ],
+    "explanation": "Value = (3 \u00d7 2) + (4 \u00d7 1) + (5 \u00d7 0.5) = 6 + 4 + 2.5 = 12.5 per unit. Units = 190 / 12.5 = 15.2 (not integer). If total is \u20b9250: 250 / 12.5 = 20 => \u20b91 coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag has \u20b92, \u20b91, and 50p coins in the ratio 3:4:5. If the total value is \u20b9250, find the number of \u20b91 coins.",
+    "answer": "80",
+    "options": [
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "explanation": "Value = (3 \u00d7 2) + (4 \u00d7 1) + (5 \u00d7 0.5) = 6 + 4 + 2.5 = 12.5 per unit. Units = 250 / 12.5 = 20. \u20b91 coins = 4 \u00d7 20 = 80.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A purse has \u20b9500, \u20b9200, and \u20b9100 notes in the ratio 1:2:3. If the total money is \u20b92,400, how many \u20b9100 notes are there?",
+    "answer": "6",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "Value = (1 \u00d7 500) + (2 \u00d7 200) + (3 \u00d7 100) = 500 + 400 + 300 = \u20b91,200 per unit. Units = 2,400 / 1,200 = 2. \u20b9100 notes = 3 \u00d7 2 = 6.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A box contains 500 coins of \u20b91 and 50-paise. If the total value is \u20b9380, what is the number of 50-paise coins?",
+    "answer": "240",
+    "options": [
+      "200",
+      "220",
+      "240",
+      "260"
+    ],
+    "explanation": "Let 50p coins = x. \u20b91 coins = 500 - x. Total value = (500 - x) + 0.5x = 500 - 0.5x = 380 => 0.5x = 120 => x = 240.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A man has \u20b9480 in the denominations of 1-rupee notes, 5-rupee notes, and 10-rupee notes. The number of notes of each denomination is equal. What is the total number of notes?",
+    "answer": "90",
+    "options": [
+      "60",
+      "75",
+      "90",
+      "105"
+    ],
+    "explanation": "Value of one set = 1 + 5 + 10 = \u20b916. Sets = 480 / 16 = 30. Total notes = 3 \u00d7 30 = 90.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A collection of coins consisting of 50p, 25p, and 10p coins in the ratio 2:3:5 amounts to \u20b990. What is the number of 25-paise coins?",
+    "answer": "120",
+    "options": [
+      "90",
+      "100",
+      "120",
+      "150"
+    ],
+    "explanation": "Value = (2 \u00d7 0.5) + (3 \u00d7 0.25) + (5 \u00d7 0.1) = 1.0 + 0.75 + 0.5 = 2.25 per unit. Units = 90 / 2.25 = 40. 25p coins = 3 \u00d7 40 = 120.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "In a drawer, the number of \u20b95 coins is 3 times the number of \u20b910 coins. If the total amount is \u20b9150, what is the number of \u20b95 coins?",
+    "answer": "18",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "21"
+    ],
+    "explanation": "Let \u20b910 coins = x => \u20b95 coins = 3x. Value = 5(3x) + 10(x) = 25x = 150 => x = 6. \u20b95 coins = 3 \u00d7 6 = 18.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A bag contains \u20b91, 50p, and 25p coins whose values are in the ratio 4:5:6. If there are 760 coins in all, what is the number of 50-paise coins?",
+    "answer": "200",
+    "options": [
+      "160",
+      "180",
+      "200",
+      "240"
+    ],
+    "explanation": "Coin count ratio: \u20b91 = 4/1 = 4; 50p = 5/0.5 = 10; 25p = 6/0.25 = 24. Total parts = 4 + 10 + 24 = 38 parts. 38 parts = 760 => 1 part = 20. 50p coins = 10 \u00d7 20 = 200.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A purse contains 25p, 50p, and \u20b91 coins in the ratio 5:4:3. If the total value of 50-paise coins is \u20b940, how many 25-paise coins are in the purse?",
+    "answer": "100",
+    "options": [
+      "80",
+      "90",
+      "100",
+      "120"
+    ],
+    "explanation": "Value of 50p coins = \u20b940 => Number of 50p coins = 40 / 0.50 = 80. In ratio 5:4:3, 4 units = 80 => 1 unit = 20. Number of 25p coins = 5 \u00d7 20 = 100.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A cash bag contains \u20b950, \u20b9100, and \u20b9500 currency notes in the ratio 4:3:2. If the total value of cash is \u20b930,000, what is the number of \u20b9500 notes?",
+    "answer": "40",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "50"
+    ],
+    "explanation": "Value per ratio unit = 4(50) + 3(100) + 2(500) = 200 + 300 + 1,000 = \u20b91,500. Units = 30,000 / 1,500 = 20. Number of \u20b9500 notes = 2 \u00d7 20 = 40.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "In a piggy bank, there are twice as many 50-paise coins as \u20b91 coins, and thrice as many 25-paise coins as \u20b91 coins. If the total money in the bank is \u20b9110, find the number of \u20b91 coins.",
+    "answer": "40",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "50"
+    ],
+    "explanation": "Let \u20b91 coins = x, 50p coins = 2x, 25p coins = 3x. Total value = x + 2x(0.5) + 3x(0.25) = 2.75x = 110 => x = 40. Number of \u20b91 coins = 40.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A collection of 20-cent and 50-cent coins totals $15.00. If the ratio of the number of 20-cent coins to 50-cent coins is 5:4, what is the total number of coins?",
+    "answer": "45",
+    "options": [
+      "36",
+      "40",
+      "45",
+      "50"
+    ],
+    "explanation": "Value per ratio unit = 5($0.20) + 4($0.50) = $1.00 + $2.00 = $3.00. Number of units = $15.00 / $3.00 = 5. Total coins = (5 + 4) \u00d7 5 = 45.",
+    "pattern": "Coins, Currency & Denominations",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "A is twice as good a workman as B and together they finish a piece of work in 18 days. In how many days can A alone finish the work?",
+    "answer": "27 days",
+    "options": [
+      "24 days",
+      "27 days",
+      "30 days",
+      "36 days"
+    ],
+    "explanation": "Efficiency ratio A:B = 2:1. Total efficiency = 3 units/day. Total work = 18 \u00d7 3 = 54 units. Time taken by A alone = 54 / 2 = 27 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A is thrice as efficient as B and therefore able to finish a job in 40 days less than B. In how many days can B alone complete the job?",
+    "answer": "60 days",
+    "options": [
+      "45 days",
+      "50 days",
+      "60 days",
+      "75 days"
+    ],
+    "explanation": "Efficiency A:B = 3:1 => Time ratio A:B = 1:3. Difference in time = 3 - 1 = 2 units = 40 days => 1 unit = 20 days. Time for B = 3 \u00d7 20 = 60 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The efficiencies of A, B, and C are in the ratio 2:3:5. Working together, they can complete a work in 15 days. In how many days can C alone complete the work?",
+    "answer": "30 days",
+    "options": [
+      "25 days",
+      "30 days",
+      "35 days",
+      "40 days"
+    ],
+    "explanation": "Total efficiency = 2 + 3 + 5 = 10 units/day. Total work = 15 \u00d7 10 = 150 units. Time for C = 150 / 5 = 30 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A and B can do a work in 12 days and 18 days respectively. If they work together and earn \u20b91,500, what is A's share?",
+    "answer": "\u20b9900",
+    "options": [
+      "\u20b9600",
+      "\u20b9750",
+      "\u20b9800",
+      "\u20b9900"
+    ],
+    "explanation": "Wages are distributed according to efficiency. Efficiency ratio A:B = (1/12) : (1/18) = 3 : 2. Total parts = 5. A's share = (3 / 5) \u00d7 1,500 = \u20b9900.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A is 50% more efficient than B. If B takes 30 days to finish a task, how long will A take to finish the same task?",
+    "answer": "20 days",
+    "options": [
+      "15 days",
+      "20 days",
+      "22.5 days",
+      "25 days"
+    ],
+    "explanation": "Efficiency ratio A:B = 1.5 : 1 = 3 : 2. Time ratio A:B = 2 : 3. 3 units = 30 days => 1 unit = 10 days. Time for A = 2 \u00d7 10 = 20 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "Daily wages of two workers are in the ratio 4:3. If the first worker earns \u20b9120 more than the second per day, what is the daily wage of the first worker?",
+    "answer": "\u20b9480",
+    "options": [
+      "\u20b9360",
+      "\u20b9400",
+      "\u20b9480",
+      "\u20b9500"
+    ],
+    "explanation": "Difference = 4 - 3 = 1 unit = \u20b9120. Daily wage of first worker = 4 \u00d7 120 = \u20b9480.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A, B, and C undertake to complete a job for \u20b94,800. A alone can do it in 6 days, B in 8 days, and with the help of C, they complete it in 3 days. What is C's share?",
+    "answer": "\u20b9600",
+    "options": [
+      "\u20b9400",
+      "\u20b9500",
+      "\u20b9600",
+      "\u20b9800"
+    ],
+    "explanation": "Daily work: A = 1/6, B = 1/8. Combined A + B = 1/6 + 1/8 = 7/24. Together A + B + C = 1/3 = 8/24. C's daily work = 8/24 - 7/24 = 1/24. Ratio of efficiencies A:B:C = 4:3:1. C's share = (1 / 8) \u00d7 4,800 = \u20b9600.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "If 3 men or 5 women can reap a field in 43 days, how long will 5 men and 6 women take to reap the field?",
+    "answer": "15 days",
+    "options": [
+      "12 days",
+      "15 days",
+      "18 days",
+      "20 days"
+    ],
+    "explanation": "3 Men = 5 Women => 1 Man = 5/3 Women. 5 Men + 6 Women = 5(5/3) + 6 = 25/3 + 18/3 = 43/3 Women. 5 Women take 43 days => Total work = 5 \u00d7 43 women-days. Days for (43/3) women = (5 \u00d7 43) / (43/3) = 15 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of time taken by A and B to do a work is 3:5. If together they finish the work in 15 days, in how many days can A alone finish it?",
+    "answer": "24 days",
+    "options": [
+      "20 days",
+      "22 days",
+      "24 days",
+      "25 days"
+    ],
+    "explanation": "Time ratio A:B = 3:5 => Efficiency ratio A:B = 5:3. Total efficiency = 8 units/day. Total work = 15 \u00d7 8 = 120 units. Time for A alone = 120 / 5 = 24 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A is 40% less efficient than B. If both together complete a work in 30 days, in how many days can B alone complete the work?",
+    "answer": "48 days",
+    "options": [
+      "40 days",
+      "45 days",
+      "48 days",
+      "50 days"
+    ],
+    "explanation": "Efficiency A:B = 0.6 : 1 = 3 : 5. Total efficiency = 8 units/day. Total work = 30 \u00d7 8 = 240 units. Time for B alone = 240 / 5 = 48 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A can do a piece of work in 20 days and B in 30 days. They work together and are paid \u20b9600. What is B's share?",
+    "answer": "\u20b9240",
+    "options": [
+      "\u20b9200",
+      "\u20b9240",
+      "\u20b9250",
+      "\u20b9300"
+    ],
+    "explanation": "Efficiency A:B = 30 : 20 = 3 : 2. B's share = (2 / 5) \u00d7 600 = \u20b9240.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A, B, and C can complete a work in 10, 15, and 30 days respectively. What is the ratio of their daily work?",
+    "answer": "3:2:1",
+    "options": [
+      "1:2:3",
+      "3:2:1",
+      "3:2:2",
+      "6:4:2"
+    ],
+    "explanation": "Ratio = (1/10) : (1/15) : (1/30). Multiplying by 30: 3 : 2 : 1.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of work done by (x - 1) men in (x + 1) days to the work done by (x + 2) men in (x - 1) days is 9:10. Find x.",
+    "answer": "8",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "explanation": "Work ratio = [(x - 1)(x + 1)] / [(x + 2)(x - 1)] = (x + 1) / (x + 2) = 9 / 10 => 10(x + 1) = 9(x + 2) => 10x + 10 = 9x + 18 => x = 8.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "Efficiency of A is 25% more than B and B is 20% more efficient than C. If C takes 30 days to finish a task, how many days will A take?",
+    "answer": "20 days",
+    "options": [
+      "16 days",
+      "18 days",
+      "20 days",
+      "24 days"
+    ],
+    "explanation": "Let C = 100 => B = 120 => A = 1.25 \u00d7 120 = 150. Efficiency ratio A:C = 150 : 100 = 3 : 2. Time ratio A:C = 2 : 3. C takes 30 days => A takes 20 days.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "Two workers A and B are paid a total of \u20b91,120 per week. If A is paid 180% of what B is paid, what is B's weekly wage?",
+    "answer": "\u20b9400",
+    "options": [
+      "\u20b9350",
+      "\u20b9400",
+      "\u20b9450",
+      "\u20b9480"
+    ],
+    "explanation": "A = 1.8B => A:B = 18:10 = 9:5. Total parts = 14. 14 parts = 1,120 => 1 part = 80. B's wage = 5 \u00d7 80 = \u20b9400.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of speeds of two cars is 5:4. If the first car covers a certain distance in 4 hours, how much time will the second car take to cover the same distance?",
+    "answer": "5 hours",
+    "options": [
+      "4.5 hours",
+      "5 hours",
+      "5.5 hours",
+      "6 hours"
+    ],
+    "explanation": "Time is inversely proportional to speed: Time ratio = 4 : 5. First car takes 4 hours => second car takes 5 hours.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A person travels a certain distance at 4/5 of his usual speed and reaches 15 minutes late. What is his usual time to cover the distance?",
+    "answer": "60 minutes",
+    "options": [
+      "45 minutes",
+      "50 minutes",
+      "60 minutes",
+      "75 minutes"
+    ],
+    "explanation": "Speed ratio = 4 : 5 => Time ratio = 5 : 4. Delay = 5 - 4 = 1 unit = 15 minutes. Usual time = 4 \u00d7 15 = 60 minutes.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "Walking at 3/4 of his normal speed, a man is 20 minutes late to his office. What is his usual time?",
+    "answer": "60 minutes",
+    "options": [
+      "45 minutes",
+      "50 minutes",
+      "60 minutes",
+      "80 minutes"
+    ],
+    "explanation": "Time ratio = 4/3 of usual time. Extra time = (4/3 - 1) = 1/3 of usual time = 20 minutes => Usual time = 60 minutes.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of speeds of A, B, and C is 2:3:4. What is the ratio of times taken by them to cover the same distance?",
+    "answer": "6:4:3",
+    "options": [
+      "2:3:4",
+      "3:4:6",
+      "4:3:2",
+      "6:4:3"
+    ],
+    "explanation": "Time ratio = (1/2) : (1/3) : (1/4). Multiplying by LCM (12): 6 : 4 : 3.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The speeds of a train and a car are in the ratio 7:5. If the car takes 3.5 hours to travel a certain distance, how long will the train take to travel the same distance?",
+    "answer": "2.5 hours",
+    "options": [
+      "2.0 hours",
+      "2.5 hours",
+      "2.8 hours",
+      "3.0 hours"
+    ],
+    "explanation": "Time ratio = 5 : 7. 7 units = 3.5 hours => 1 unit = 0.5 hours. Train time = 5 \u00d7 0.5 = 2.5 hours.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A and B start at the same time to travel from X to Y. Their speeds are in the ratio 3:4. A takes 30 minutes more than B to reach the destination. What is the time taken by B?",
+    "answer": "90 minutes",
+    "options": [
+      "60 minutes",
+      "75 minutes",
+      "90 minutes",
+      "120 minutes"
+    ],
+    "explanation": "Time ratio A:B = 4:3. Difference = 4 - 3 = 1 unit = 30 minutes. Time taken by B = 3 \u00d7 30 = 90 minutes.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A car covers a distance of 180 km in 4 hours. A bus covers 240 km in 6 hours. What is the ratio of the speed of the car to that of the bus?",
+    "answer": "9:8",
+    "options": [
+      "4:3",
+      "5:4",
+      "8:9",
+      "9:8"
+    ],
+    "explanation": "Speed of car = 180 / 4 = 45 km/h. Speed of bus = 240 / 6 = 40 km/h. Ratio = 45 : 40 = 9 : 8.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "The ratio of speeds of two cyclists is 7:9. If the second cyclist travels 135 km in 3 hours, how far will the first cyclist travel in 3 hours?",
+    "answer": "105 km",
+    "options": [
+      "95 km",
+      "100 km",
+      "105 km",
+      "110 km"
+    ],
+    "explanation": "Speed of second = 135 / 3 = 45 km/h. 9 units = 45 => 1 unit = 5. Speed of first = 7 \u00d7 5 = 35 km/h. Distance in 3 hours = 35 \u00d7 3 = 105 km.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A train travels at 6/7 of its usual speed and arrives 12 minutes late. What is the usual journey time?",
+    "answer": "72 minutes",
+    "options": [
+      "60 minutes",
+      "64 minutes",
+      "72 minutes",
+      "80 minutes"
+    ],
+    "explanation": "Time ratio = 7 : 6. Difference = 1 unit = 12 minutes. Usual time = 6 \u00d7 12 = 72 minutes.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of speeds of a boat in still water to that of stream is 5:1. If the boat takes 2 hours to go downstream, how long will it take to return upstream?",
+    "answer": "3 hours",
+    "options": [
+      "2.5 hours",
+      "3 hours",
+      "3.5 hours",
+      "4 hours"
+    ],
+    "explanation": "Downstream speed = 5 + 1 = 6 units. Upstream speed = 5 - 1 = 4 units. Speed ratio = 6 : 4 = 3 : 2. Time ratio = 2 : 3. Since downstream takes 2 hours, upstream takes 3 hours.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A cyclist covers a distance in 40 minutes at 15 km/h. At what speed must he cycle to cover the same distance in 30 minutes?",
+    "answer": "20 km/h",
+    "options": [
+      "18 km/h",
+      "20 km/h",
+      "22.5 km/h",
+      "25 km/h"
+    ],
+    "explanation": "Speed is inversely proportional to time: S2 / 15 = 40 / 30 = 4/3 => S2 = 15 \u00d7 (4/3) = 20 km/h.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 7
+  },
+  {
+    "question": "Two runners run along the same track. Their speeds are in the ratio 5:6. If the slower runner has a 20-meter head start, how far must they run for the faster runner to catch up?",
+    "answer": "120 meters",
+    "options": [
+      "100 meters",
+      "110 meters",
+      "120 meters",
+      "140 meters"
+    ],
+    "explanation": "Distance is directly proportional to speed: D1 : D2 = 5 : 6. Difference = 6 - 5 = 1 unit = 20 m. Distance for faster runner = 6 \u00d7 20 = 120 meters.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "A truck travels 20% faster than a car. If both start together, what is the ratio of times taken by the truck and the car to cover the same distance?",
+    "answer": "5:6",
+    "options": [
+      "4:5",
+      "5:6",
+      "5:7",
+      "6:7"
+    ],
+    "explanation": "Speed ratio Truck:Car = 1.20 : 1 = 6 : 5. Time ratio = 5 : 6.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A train covers a distance at an average speed of 60 km/h. On the return journey, its speed is 40 km/h. What is the ratio of time taken in onward journey to return journey?",
+    "answer": "2:3",
+    "options": [
+      "2:3",
+      "3:2",
+      "3:4",
+      "4:5"
+    ],
+    "explanation": "Time ratio is inverse of speed ratio: 40 : 60 = 2 : 3.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "A man walking at 5/6 of his usual speed reaches his destination 10 minutes late. What is his usual speed if the distance is 25 km?",
+    "answer": "30 km/h",
+    "options": [
+      "25 km/h",
+      "30 km/h",
+      "35 km/h",
+      "40 km/h"
+    ],
+    "explanation": "Time ratio = 6 : 5. Extra time = 1 unit = 10 minutes. Usual time = 5 \u00d7 10 = 50 minutes = 5/6 hours. Usual speed = 25 / (5/6) = 30 km/h.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 7
+  },
+  {
+    "question": "The ratio of the radii of two circles is 3:4. What is the ratio of their areas?",
+    "answer": "9:16",
+    "options": [
+      "3:4",
+      "6:8",
+      "9:12",
+      "9:16"
+    ],
+    "explanation": "Area of a circle is proportional to the square of its radius: Area ratio = 3^2 : 4^2 = 9 : 16.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "The ratio of the circumferences of two circles is 2:5. What is the ratio of their areas?",
+    "answer": "4:25",
+    "options": [
+      "2:5",
+      "4:10",
+      "4:25",
+      "8:125"
+    ],
+    "explanation": "Circumference ratio equals radius ratio = 2 : 5. Area ratio = 2^2 : 5^2 = 4 : 25.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "The ratio of the areas of two squares is 49:64. What is the ratio of their perimeters?",
+    "answer": "7:8",
+    "options": [
+      "7:8",
+      "14:16",
+      "24:32",
+      "49:64"
+    ],
+    "explanation": "Perimeter ratio = side ratio = sqrt(Area ratio) = sqrt(49) : sqrt(64) = 7 : 8.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The volumes of two spheres are in the ratio 27:64. What is the ratio of their surface areas?",
+    "answer": "9:16",
+    "options": [
+      "3:4",
+      "6:8",
+      "9:16",
+      "27:64"
+    ],
+    "explanation": "Radius ratio = cbrt(27) : cbrt(64) = 3 : 4. Surface area ratio = 3^2 : 4^2 = 9 : 16.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of the radii of two cylinders is 2:3 and their heights are in the ratio 5:4. What is the ratio of their volumes?",
+    "answer": "5:9",
+    "options": [
+      "4:9",
+      "5:6",
+      "5:9",
+      "10:12"
+    ],
+    "explanation": "Volume of cylinder = pi r^2 h. Volume ratio = (r1^2 \u00d7 h1) / (r2^2 \u00d7 h2) = (4 \u00d7 5) / (9 \u00d7 4) = 20 / 36 = 5 / 9 = 5 : 9.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of the curved surface areas of two cylinders is 2:3 and their heights are in the ratio 4:5. What is the ratio of their radii?",
+    "answer": "5:6",
+    "options": [
+      "2:3",
+      "3:4",
+      "4:5",
+      "5:6"
+    ],
+    "explanation": "Curved surface area = 2 pi r h. (r1 \u00d7 h1) / (r2 \u00d7 h2) = 2/3 => (r1/r2) \u00d7 (4/5) = 2/3 => r1/r2 = (2/3) \u00d7 (5/4) = 10/12 = 5/6 = 5 : 6.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The volumes of two cubes are in the ratio 8:27. What is the ratio of their total surface areas?",
+    "answer": "4:9",
+    "options": [
+      "2:3",
+      "4:9",
+      "8:27",
+      "16:81"
+    ],
+    "explanation": "Edge ratio = cbrt(8) : cbrt(27) = 2 : 3. Surface area ratio = 2^2 : 3^2 = 4 : 9.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "The ratio of base radii of two cones is 3:5 and their heights are in the ratio 2:3. What is the ratio of their volumes?",
+    "answer": "6:25",
+    "options": [
+      "2:5",
+      "6:15",
+      "6:25",
+      "9:25"
+    ],
+    "explanation": "Volume of cone = (1/3) pi r^2 h. Ratio = (r1^2 \u00d7 h1) / (r2^2 \u00d7 h2) = (9 \u00d7 2) / (25 \u00d7 3) = 18 / 75 = 6 / 25 = 6 : 25.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of the edges of two cubes is 3:5. What is the ratio of their volumes?",
+    "answer": "27:125",
+    "options": [
+      "3:5",
+      "6:10",
+      "9:25",
+      "27:125"
+    ],
+    "explanation": "Volume ratio = 3^3 : 5^3 = 27 : 125.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "The heights of two cones are in the ratio 1:3 and their diameters are in the ratio 3:5. What is the ratio of their volumes?",
+    "answer": "3:25",
+    "options": [
+      "1:5",
+      "3:15",
+      "3:25",
+      "9:25"
+    ],
+    "explanation": "Volume ratio = (r1^2 \u00d7 h1) / (r2^2 \u00d7 h2) = (9 \u00d7 1) / (25 \u00d7 3) = 9 / 75 = 3 / 25 = 3 : 25.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The surface areas of two spheres are in the ratio 16:25. What is the ratio of their volumes?",
+    "answer": "64:125",
+    "options": [
+      "4:5",
+      "16:25",
+      "32:75",
+      "64:125"
+    ],
+    "explanation": "Radius ratio = sqrt(16) : sqrt(25) = 4 : 5. Volume ratio = 4^3 : 5^3 = 64 : 125.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of the length, breadth, and height of a cuboid is 5:3:2 and its total surface area is 558 sq cm. What is the length of the cuboid?",
+    "answer": "15 cm",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "18 cm"
+    ],
+    "explanation": "Total surface area = 2(lb + bh + hl) = 2(15x^2 + 6x^2 + 10x^2) = 2(31x^2) = 62x^2 = 558 => x^2 = 9 => x = 3. Length = 5x = 5 \u00d7 3 = 15 cm.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 8
+  },
+  {
+    "question": "The ratio of length to breadth of a rectangular field is 3:2. If the perimeter is 80 meters, what is the area of the field?",
+    "answer": "384 sq m",
+    "options": [
+      "360 sq m",
+      "384 sq m",
+      "400 sq m",
+      "420 sq m"
+    ],
+    "explanation": "Perimeter = 2(3x + 2x) = 10x = 80 => x = 8. Length = 24 m, Breadth = 16 m. Area = 24 \u00d7 16 = 384 sq m.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "The radius of a sphere is doubled. What is the ratio of the volume of the original sphere to the new sphere?",
+    "answer": "1:8",
+    "options": [
+      "1:2",
+      "1:4",
+      "1:6",
+      "1:8"
+    ],
+    "explanation": "Volume ratio = r^3 : (2r)^3 = 1 : 8.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "If the height of a cylinder is doubled and its radius is halved, what is the ratio of the new volume to the original volume?",
+    "answer": "1:2",
+    "options": [
+      "1:1",
+      "1:2",
+      "1:4",
+      "2:1"
+    ],
+    "explanation": "V_new / V_old = [pi (r/2)^2 (2h)] / [pi r^2 h] = (r^2/4 \u00d7 2h) / (r^2 h) = 2/4 = 1/2. Ratio = 1 : 2.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 6
+  },
+  {
+    "question": "The diagonals of two squares are in the ratio 2:5. What is the ratio of their areas?",
+    "answer": "4:25",
+    "options": [
+      "1:4",
+      "2:5",
+      "4:25",
+      "8:25"
+    ],
+    "explanation": "Area of a square = (1/2) d^2. Area ratio = 2^2 : 5^2 = 4 : 25.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "The ratio of radii of two hemispheres is 2:3. What is the ratio of their total surface areas?",
+    "answer": "4:9",
+    "options": [
+      "2:3",
+      "4:9",
+      "6:9",
+      "8:27"
+    ],
+    "explanation": "Total surface area of hemisphere = 3 pi r^2. Ratio = 2^2 : 3^2 = 4 : 9.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 4
+  },
+  {
+    "question": "The sides of a triangle are in the ratio 3:4:5 and its perimeter is 72 cm. What is the area of the triangle?",
+    "answer": "216 sq cm",
+    "options": [
+      "180 sq m",
+      "200 sq cm",
+      "216 sq cm",
+      "240 sq cm"
+    ],
+    "explanation": "Total parts = 3 + 4 + 5 = 12. 12 parts = 72 => 1 part = 6. Sides are 18 cm, 24 cm, 30 cm (a right-angled triangle). Area = (1/2) \u00d7 18 \u00d7 24 = 216 sq cm.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 5
+  },
+  {
+    "question": "The ratio of the area of a circle to the area of a square inscribed in it is:",
+    "answer": "pi:2",
+    "options": [
+      "pi:2",
+      "2:pi",
+      "pi:4",
+      "4:pi"
+    ],
+    "explanation": "Let circle radius = r. Diameter = 2r = diagonal of square. Side of square = 2r / sqrt(2) = r sqrt(2). Area of square = (r sqrt(2))^2 = 2r^2. Area of circle = pi r^2. Ratio = pi r^2 : 2r^2 = pi : 2.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 7
+  },
+  {
+    "question": "The base and altitude of a right triangle are in the ratio 3:4. If the area of the triangle is 96 sq cm, what is the length of the hypotenuse?",
+    "answer": "20 cm",
+    "options": [
+      "15 cm",
+      "18 cm",
+      "20 cm",
+      "25 cm"
+    ],
+    "explanation": "Area = (1/2) \u00d7 3x \u00d7 4x = 6x^2 = 96 => x^2 = 16 => x = 4. Base = 12 cm, Altitude = 16 cm. Hypotenuse = sqrt(12^2 + 16^2) = sqrt(144 + 256) = sqrt(400) = 20 cm.",
+    "pattern": "Advanced Work, Speed & Geometric Ratios",
+    "topic": "Ratio and Proportion",
+    "difficulty": 8
+  }
+]

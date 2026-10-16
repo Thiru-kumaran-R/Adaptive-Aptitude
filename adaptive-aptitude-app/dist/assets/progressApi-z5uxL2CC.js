@@ -1,0 +1,1 @@
+import{a}from"./index-BMpL5RLw.js";async function s(t,e){return a.get(`/api/v1/progress/${t}/patterns`,{params:e})}async function n(t,e){return a.get(`/api/v1/progress/${t}/weakest`,{params:e})}export{s as a,n as f};

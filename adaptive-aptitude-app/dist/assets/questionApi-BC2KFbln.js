@@ -1,0 +1,1 @@
+import{a as n}from"./index-BMpL5RLw.js";async function s(){return n.get("/api/v1/questions/topics")}async function i(t){return n.get(`/api/v1/questions/topic/${encodeURIComponent(t)}/patterns`)}async function c(t,e,o){return n.get(`/api/v1/questions/topic/${encodeURIComponent(t)}/pattern/${encodeURIComponent(e)}/random`,{params:o})}export{i as a,c as b,s as f};

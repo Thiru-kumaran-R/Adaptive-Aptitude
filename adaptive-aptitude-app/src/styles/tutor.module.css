@@ -1,0 +1,119 @@
+/* src/styles/tutor.module.css */
+
+.tutorWorkspace {
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 120px);
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.tutorHeader {
+  padding: var(--space-4) var(--space-6);
+  border-bottom: 1px solid var(--border-subtle);
+  background-color: var(--bg-surface-elevated);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.messagesList {
+  flex: 1;
+  padding: var(--space-6);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+}
+
+.messageBubble {
+  max-width: 80%;
+  padding: var(--space-3) var(--space-4);
+  border-radius: var(--radius-md);
+  font-size: var(--text-sm);
+  line-height: 1.6;
+}
+
+.messageUser {
+  align-self: flex-end;
+  background-color: var(--accent-primary);
+  color: #ffffff;
+}
+
+.messageAssistant {
+  align-self: flex-start;
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  color: var(--text-primary);
+}
+
+.tutorInputArea {
+  padding: var(--space-4);
+  border-top: 1px solid var(--border-subtle);
+  background-color: var(--bg-surface);
+  display: flex;
+  gap: var(--space-2);
+}
+
+.textInput {
+  flex: 1;
+  padding: var(--space-2) var(--space-3);
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-md);
+  color: var(--text-primary);
+  font-size: var(--text-sm);
+}
+
+.textInput:focus {
+  outline: 2px solid var(--ring-color);
+}
+
+.cooldownBanner {
+  padding: var(--space-2) var(--space-4);
+  background-color: rgba(245, 158, 11, 0.15);
+  border-top: 1px solid var(--status-warning);
+  color: var(--status-warning-text);
+  font-size: var(--text-xs);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+}
+
+/* Hint Accordion */
+.accordionList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2);
+  margin-top: var(--space-4);
+}
+
+.accordionItem {
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.accordionHeader {
+  width: 100%;
+  padding: var(--space-3) var(--space-4);
+  background-color: var(--bg-surface-elevated);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: var(--text-sm);
+  font-weight: 500;
+  cursor: pointer;
+  text-align: left;
+}
+
+.accordionContent {
+  padding: var(--space-4);
+  background-color: var(--bg-surface);
+  font-size: var(--text-sm);
+  color: var(--text-secondary);
+  border-top: 1px solid var(--border-subtle);
+}

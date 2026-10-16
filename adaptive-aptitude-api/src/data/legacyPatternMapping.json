@@ -1,0 +1,2158 @@
+[
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Present Age from a Given Ratio",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Present Age from a Given Ratio",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Age After/Before N Years",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Age After/Before N Years",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Sum of Present Ages Given",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Sum of Present Ages Given",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Father\u2013Son / Mother\u2013Daughter Type",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Father\u2013Son / Mother\u2013Daughter Type",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Multiple Persons (3+) Linked by Ages",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Multiple Persons (3+) Linked by Ages",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Ratio Changes Over Time (Past \u2192 Future)",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Ratio Changes Over Time (Past \u2192 Future)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Fraction of Age Given",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Fraction of Age Given",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Percentage-Based Age Problems",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Percentage-Based Age Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Product of Ages",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Product of Ages",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Average Age of a Group \u2014 Basic",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Average Age of a Group \u2014 Basic",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Average Age \u2014 Person Added",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Average Age \u2014 Person Added",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Average Age \u2014 Person Replaced",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Average Age \u2014 Person Replaced",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Average Age \u2014 Person Removed",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Average Age \u2014 Person Removed",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Average Age \u2014 Whole Group Ages Together",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Average Age \u2014 Whole Group Ages Together",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Reverse-Digit Age Problems",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Reverse-Digit Age Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "'n Times' Relations Across Two Time Points",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "'n Times' Relations Across Two Time Points",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Difference of Ages is Constant (Key Trick)",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Difference of Ages is Constant (Key Trick)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Ages",
+    "legacyPattern": "Sum + Ratio Combined",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Sum + Ratio Combined",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Linear Equations & Systems of Equations",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Linear Equations & Systems of Equations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Standard Algebraic Identities & Expansions",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Standard Algebraic Identities & Expansions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Conditional Cubic Identity (a^3 + b^3 + c^3 - 3abc)",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Conditional Cubic Identity (a^3 + b^3 + c^3 - 3abc)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Reciprocal Symmetrical Forms (x + 1/x)",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Reciprocal Symmetrical Forms (x + 1/x)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Quadratic Equations: Roots & Discriminant Analysis",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Quadratic Equations: Roots & Discriminant Analysis",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Vieta's Relations & Equation Construction",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Vieta's Relations & Equation Construction",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Polynomials: Remainder and Factor Theorems",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Polynomials: Remainder and Factor Theorems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Inequalities & Modulus Functions",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Inequalities & Modulus Functions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Exponents, Indices, and Surds",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Exponents, Indices, and Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Algebra",
+    "legacyPattern": "Maxima, Minima & Functions",
+    "canonicalTopic": "Algebra",
+    "canonicalPattern": "Maxima, Minima & Functions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Basic Arithmetic Mean & Missing Observations",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Basic Arithmetic Mean & Missing Observations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Arithmetic Progression & Consecutive Series",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Arithmetic Progression & Consecutive Series",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Uniform Operations / Invariance Property",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Uniform Operations / Invariance Property",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Inclusion (New Member Added)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Inclusion (New Member Added)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Exclusion (Member Leaves)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Exclusion (Member Leaves)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Replacement (Exchange)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Replacement (Exchange)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Error Correction (Misread Data)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Error Correction (Misread Data)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Overlapping & Excluded Middle Observations",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Overlapping & Excluded Middle Observations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Weighted Average & Alligation",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Weighted Average & Alligation",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Batting & Bowling Averages (Cricket Aptitude)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Batting & Bowling Averages (Cricket Aptitude)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Age Problems with Time Shifts",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Age Problems with Time Shifts (Group Average)",
+    "reason": "Moved from Average to Problems on Ages as the primary domain is age calculation with family/marriage events."
+  },
+  {
+    "legacyTopic": "Average",
+    "legacyPattern": "Maximum & Minimum Optimization (Extremes)",
+    "canonicalTopic": "Average",
+    "canonicalPattern": "Maximum & Minimum Optimization (Extremes)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Basic Speed Calculation (Downstream & Upstream)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Basic Speed Calculation (Downstream & Upstream)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Reverse Calculation (Speed in Still Water & Stream Speed)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Reverse Calculation (Speed in Still Water & Stream Speed)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Distance, Time, and Speed Interplay",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Distance, Time, and Speed Interplay",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Ratio & Proportion Based",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Ratio & Proportion Based",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Average Speed in Streams (Round Trips)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Average Speed in Streams (Round Trips)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Stationary / Floating Objects (Rafts, Buoys, Logs)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Stationary / Floating Objects (Rafts, Buoys, Logs)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Multiple Journeys & Variable Speeds (Simultaneous Equations)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Multiple Journeys & Variable Speeds (Simultaneous Equations)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Relative Motion in Streams (Two Boats)",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Relative Motion in Streams (Two Boats)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Time Difference & Equation Framing",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Time Difference & Equation Framing",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Boats and Streams",
+    "legacyPattern": "Advanced Conceptual & Combined Scenarios",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Multi-Leg Journeys (Engine, Drifting, and Variable Currents)",
+    "reason": "Renamed vague pattern to exact physical technique tested."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Odd Days Calculation (Basics & Small Intervals)",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Odd Days Calculation (Basics & Small Intervals)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Same Month / Day Shift in Current Month",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Same Month / Day Shift in Current Month",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Same Year, Different Month Date Finding",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Same Year, Different Month Date Finding",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Same Date & Month, Different Year Shift",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Same Date & Month, Different Year Shift",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Absolute Day of the Week (Zeller's / Century Code Method)",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Absolute Day of the Week (Zeller's / Century Code Method)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Calendar Repetition / Identical Calendars",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Calendar Repetition / Identical Calendars",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "First and Last Days of Centuries / Century Properties",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "First and Last Days of Centuries / Century Properties",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Relative Temporal Shifts (\"N days before yesterday\", \"3 days after tomorrow\")",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Relative Temporal Shifts (\"N days before yesterday\", \"3 days after tomorrow\")",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Count of Specific Weekdays in a Month/Year",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Count of Specific Weekdays in a Month/Year",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Calendar",
+    "legacyPattern": "Faulty Calendars, Clocks & Hypothetical Calendar Worlds",
+    "canonicalTopic": "Calendar",
+    "canonicalPattern": "Faulty Calendars, Clocks & Hypothetical Calendar Worlds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Angle Determination (Standard & Reflex)",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Angle Determination (Standard & Reflex)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Hands in Coincidence (0\u00b0 / Overlap)",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Hands in Coincidence (0\u00b0 / Overlap)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Hands Opposite (180\u00b0 / Straight Line)",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Hands Opposite (180\u00b0 / Straight Line)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Right Angles (90\u00b0 Orientation)",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Right Angles (90\u00b0 Orientation)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Arbitrary Target Angles (e.g., 30\u00b0, 45\u00b0, 60\u00b0, equidistant positions)",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Arbitrary Target Angles (e.g., 30\u00b0, 45\u00b0, 60\u00b0, equidistant positions)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Mirror & Water Image Reflections",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Mirror & Water Image Reflections",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Frequency of Alignments & Angular Events",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Frequency of Alignments & Angular Events",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Faulty Clocks - Uniform Gain / Loss",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Faulty Clocks - Uniform Gain / Loss",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Faulty Clocks - Comparative Speed & Intersecting Times",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Faulty Clocks - Comparative Speed & Intersecting Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Clock",
+    "legacyPattern": "Multi-Day Clock Drift & Real-World Synchronizations",
+    "canonicalTopic": "Clock",
+    "canonicalPattern": "Multi-Day Clock Drift & Real-World Synchronizations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Basic Annual Compounding",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Basic Annual Compounding",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Non-Annual Compounding Periods",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Non-Annual Compounding Periods",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Variable / Successive Annual Rates",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Variable / Successive Annual Rates",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Fractional Time Periods",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Fractional Time Periods",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Difference Between CI and SI",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Difference Between CI and SI",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Multiplier / Doubling Periods",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Multiplier / Doubling Periods",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Two Amounts at Different Times",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Two Amounts at Different Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Installments & Equated Periodic Payments",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Installments & Equated Periodic Payments",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Population Growth & Asset Depreciation",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Population Growth & Asset Depreciation",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Compound Interest",
+    "legacyPattern": "Ratio, Sharing, and Division of Sums",
+    "canonicalTopic": "Compound Interest",
+    "canonicalPattern": "Ratio, Sharing, and Division of Sums",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Basic Alligation (Price / Cost Price Weighted Averages)",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Basic Alligation (Price / Cost Price Weighted Averages)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Liquid / Solution Mixtures (Percentages & Ratios)",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Liquid / Solution Mixtures (Percentages & Ratios)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Repeated Dilution / Successive Replacement",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Repeated Dilution / Successive Replacement",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Multi-Vessel Transfers & Cascading Mixtures",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Multi-Vessel Transfers & Cascading Mixtures",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Alligation Applied to Profit, Loss & Discount",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Alligation Applied to Profit, Loss & Discount",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Alligation Applied to Speed, Time & Distance",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Alligation Applied to Speed, Time & Distance",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Alligation Applied to Simple & Compound Interest",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Alligation Applied to Simple & Compound Interest",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Alligation Applied to Averages, Demographics & Weighted Means",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Alligation Applied to Averages, Demographics & Weighted Means",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Three-Component Mixtures & Higher-Order Alligations (Advanced)",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Three-Component Mixtures & Higher-Order Alligations (Advanced)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Mixture and Alligation",
+    "legacyPattern": "Complex & Multi-Step Advanced Scenarios (CAT/GMAT Level)",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Complex & Multi-Step Advanced Scenarios (CAT/GMAT Level)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Classification of Numbers",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Classification of Numbers",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Divisibility Rules & Applications",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Divisibility Rules & Applications",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Unit Digit / Last Digit Patterns",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Unit Digit / Last Digit Patterns",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Remainder Theorem Problems",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Remainder Theorem Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Factors and Multiples",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Factors and Multiples",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "HCF and LCM",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "HCF and LCM",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Factorial-Based Problems",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Factorial-Based Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Number Series & Digit Sum Problems",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Number Series & Digit Sum Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Base System / Number System Conversion",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Base System / Number System Conversion",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Progressions Mixed with Number Properties",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Progressions Mixed with Number Properties",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Word-Problem Patterns Specific to Numbers",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Word-Problem Patterns Specific to Numbers",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Simplification & BODMAS-Based Number Problems",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Simplification & BODMAS-Based Number Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Special Theorem-Based Shortcuts",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Modular Arithmetic and Remainder Theorems (Fermat, Wilson, Euler)",
+    "reason": "Renamed shortcut label to exact mathematical theorem family tested."
+  },
+  {
+    "legacyTopic": "Number System",
+    "legacyPattern": "Miscellaneous High-Frequency Patterns",
+    "canonicalTopic": "Number System",
+    "canonicalPattern": "Division with Constraints (Largest / Smallest N-Digit Multiples)",
+    "reason": "Renamed vague miscellaneous label to exact mathematical pattern tested."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Basic Ratio of Investments (Same Time Period)",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Basic Ratio of Investments (Same Time Period)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Different Investments and Different Time Periods",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Different Investments and Different Time Periods",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Finding Missing Time Period",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Finding Missing Time Period",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Finding Missing Capital / Initial Investment",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Finding Missing Capital / Initial Investment",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Capital Alteration (Adding / Withdrawing Mid-way)",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Capital Alteration (Adding / Withdrawing Mid-way)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Working vs. Sleeping Partner (Commission / Salary Model)",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Working vs. Sleeping Partner (Commission / Salary Model)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Fractional Investments & Fractional Time",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Fractional Investments & Fractional Time",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Rent / Resource Sharing (Pasture Grazing Model)",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Rent / Resource Sharing (Pasture Grazing Model)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Difference in Profit Shares",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Difference in Profit Shares",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Partnership",
+    "legacyPattern": "Ratio of Profits Given, Solve Capital Ratio / Duration Ratio",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Ratio of Profits Given, Solve Capital Ratio / Duration Ratio",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Direct Percentage of a Number",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Basic Percentage Calculation",
+    "reason": "Normalized redundant label into canonical pattern: Basic Percentage Calculation."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Finding What Percentage One Number Is of Another",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage of a Quantity & Fractions",
+    "reason": "Normalized redundant label into canonical pattern: Percentage of a Quantity & Fractions."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Finding the Original Number from a Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Reverse Percentage & Base Value",
+    "reason": "Normalized redundant label into canonical pattern: Reverse Percentage & Base Value."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Increase",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Single Percentage Increase and Decrease",
+    "reason": "Normalized redundant label into canonical pattern: Single Percentage Increase and Decrease."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Decrease",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Single Percentage Increase and Decrease",
+    "reason": "Normalized redundant label into canonical pattern: Single Percentage Increase and Decrease."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Finding Percentage Change",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Single Percentage Increase and Decrease",
+    "reason": "Normalized redundant label into canonical pattern: Single Percentage Increase and Decrease."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Increase from A to B vs Decrease from B to A",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Price, Consumption and Expenditure Adjustments",
+    "reason": "Normalized redundant label into canonical pattern: Price, Consumption and Expenditure Adjustments."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Successive Percentage Increase",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Successive Percentage Decrease",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Increase Followed by Decrease",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Reverse Percentage / Original Value",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Reverse Percentage & Base Value",
+    "reason": "Normalized redundant label into canonical pattern: Reverse Percentage & Base Value."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Required Percentage Increase/Decrease to Return to Original",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Price, Consumption and Expenditure Adjustments",
+    "reason": "Normalized redundant label into canonical pattern: Price, Consumption and Expenditure Adjustments."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Comparison Between Two Values",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Comparison & Differences",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Comparison & Differences."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Ratio to Percentage Conversion",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage-Fraction-Ratio Equivalence",
+    "reason": "Normalized redundant label into canonical pattern: Percentage-Fraction-Ratio Equivalence."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage to Ratio Conversion",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage-Fraction-Ratio Equivalence",
+    "reason": "Normalized redundant label into canonical pattern: Percentage-Fraction-Ratio Equivalence."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Population-Based Percentage Problems",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Population Growth and Demographics",
+    "reason": "Normalized redundant label into canonical pattern: Population Growth and Demographics."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Salary / Income / Expenditure Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Income, Expenditure and Savings Breakdown",
+    "reason": "Normalized redundant label into canonical pattern: Income, Expenditure and Savings Breakdown."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Marks and Examination Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Examination Marks and Passing Criteria",
+    "reason": "Normalized redundant label into canonical pattern: Examination Marks and Passing Criteria."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Population Composition / Gender Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Population Growth and Demographics",
+    "reason": "Normalized redundant label into canonical pattern: Population Growth and Demographics."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Profit",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Commercial Discounts & Markups",
+    "reason": "Normalized redundant label into canonical pattern: Commercial Discounts & Markups."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Profit Percentage to Selling Price",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Commercial Discounts & Markups",
+    "reason": "Normalized redundant label into canonical pattern: Commercial Discounts & Markups."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Discount Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Commercial Discounts & Markups",
+    "reason": "Normalized redundant label into canonical pattern: Commercial Discounts & Markups."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Successive Discounts",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Commercial Discounts & Markups",
+    "reason": "Normalized redundant label into canonical pattern: Commercial Discounts & Markups."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Mixture Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Mixture Percentage Calculations",
+    "reason": "Normalized redundant label into canonical pattern: Mixture Percentage Calculations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Same Percentage Increase and Decrease",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage of Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage of a Quantity & Fractions",
+    "reason": "Normalized redundant label into canonical pattern: Percentage of a Quantity & Fractions."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Area",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Geometric Scaling and Dimensional Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Geometric Scaling and Dimensional Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Volume",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Geometric Scaling and Dimensional Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Geometric Scaling and Dimensional Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Price and Consumption",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Price, Consumption and Expenditure Adjustments",
+    "reason": "Normalized redundant label into canonical pattern: Price, Consumption and Expenditure Adjustments."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Price, Consumption and Expenditure",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Price, Consumption and Expenditure Adjustments",
+    "reason": "Normalized redundant label into canonical pattern: Price, Consumption and Expenditure Adjustments."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Speed, Time and Distance",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Dimensional Scaling in Motion and Rates",
+    "reason": "Normalized redundant label into canonical pattern: Dimensional Scaling in Motion and Rates."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Efficiency and Time",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Dimensional Scaling in Motion and Rates",
+    "reason": "Normalized redundant label into canonical pattern: Dimensional Scaling in Motion and Rates."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Discount + Profit",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Commercial Discounts & Markups",
+    "reason": "Normalized redundant label into canonical pattern: Commercial Discounts & Markups."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Weighted Percentage / Weighted Average",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Weighted Percentage Calculations",
+    "reason": "Normalized redundant label into canonical pattern: Weighted Percentage Calculations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Point vs Percentage Change",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Points vs Relative Change",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Points vs Relative Change."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Error Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Measurement Error and Tolerance Calculations",
+    "reason": "Normalized redundant label into canonical pattern: Measurement Error and Tolerance Calculations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Difference Between Two Values",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Comparison & Differences",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Comparison & Differences."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Compound Growth and Depreciation",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Compound Growth and Depreciation",
+    "reason": "Retained as core canonical pattern."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Unknown Percentage in Successive Changes",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Reverse and Missing Value Successive Changes",
+    "reason": "Normalized redundant label into canonical pattern: Reverse and Missing Value Successive Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Different Bases in Percentage Comparison",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Comparison with Varying Bases",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Comparison with Varying Bases."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage with Fractions and Ratios",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage-Fraction-Ratio Equivalence",
+    "reason": "Normalized redundant label into canonical pattern: Percentage-Fraction-Ratio Equivalence."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage in Equations",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage in Algebraic Formulations & Equations",
+    "reason": "Normalized redundant label into canonical pattern: Percentage in Algebraic Formulations & Equations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Comparison of Algebraic Quantities",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage in Algebraic Formulations & Equations",
+    "reason": "Normalized redundant label into canonical pattern: Percentage in Algebraic Formulations & Equations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage of a Percentage Change",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Distribution in DI",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Distributions in Data Sets",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Distributions in Data Sets."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Repeated Replacement / Removal and Addition",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Repeated Replacement & Dilution Formula",
+    "reason": "Moved from Percentage to Mixture and Alligation as the primary domain is iterative dilution."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Error Propagation in Products",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Measurement Error and Tolerance Calculations",
+    "reason": "Normalized redundant label into canonical pattern: Measurement Error and Tolerance Calculations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Reverse Compound Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Compound Growth and Depreciation",
+    "reason": "Normalized redundant label into canonical pattern: Compound Growth and Depreciation."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Reverse Successive Percentage",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Reverse and Missing Value Successive Changes",
+    "reason": "Normalized redundant label into canonical pattern: Reverse and Missing Value Successive Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Chain",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Three or More Successive Percentage Changes",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Successive Percentage Changes",
+    "reason": "Normalized redundant label into canonical pattern: Successive Percentage Changes."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Income-Expenditure-Savings with Multiple Percentage Changes",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Income, Expenditure and Savings Breakdown",
+    "reason": "Normalized redundant label into canonical pattern: Income, Expenditure and Savings Breakdown."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Population + Composition Change",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Population Growth and Demographics",
+    "reason": "Normalized redundant label into canonical pattern: Population Growth and Demographics."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Average",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Perturbations in Averages",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Perturbations in Averages."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Ratios",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Fraction and Ratio Perturbations",
+    "reason": "Normalized redundant label into canonical pattern: Fraction and Ratio Perturbations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Fraction",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Fraction and Ratio Perturbations",
+    "reason": "Normalized redundant label into canonical pattern: Fraction and Ratio Perturbations."
+  },
+  {
+    "legacyTopic": "Percentage",
+    "legacyPattern": "Percentage Change in Probability",
+    "canonicalTopic": "Percentage",
+    "canonicalPattern": "Percentage Perturbations in Probabilities",
+    "reason": "Normalized redundant label into canonical pattern: Percentage Perturbations in Probabilities."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Fundamental Counting Principle",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Fundamental Counting Principle",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Linear Permutations",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Linear Permutations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Word & Letter Arrangements (Identical Objects)",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Word & Letter Arrangements (Identical Objects)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Gap Method & Tie Method",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Gap Method & Tie Method",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Combinations & Selection (nCr)",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Combinations & Selection (nCr)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Geometry & Points",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Geometry & Points",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Circular Permutations",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Circular Permutations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Digit & Number Problems",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Digit & Number Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Distribution & Partitioning (Identical & Distinct Objects)",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Distribution & Partitioning (Identical & Distinct Objects)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Permutation and Combination",
+    "legacyPattern": "Advanced Combinatorics & Number Theory Applications",
+    "canonicalTopic": "Permutation and Combination",
+    "canonicalPattern": "Advanced Combinatorics & Number Theory Applications",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Single Inlet / Outlet Individual Fill and Empty Times",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Single Inlet / Outlet Individual Fill and Empty Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Two or Three Inlets Working Simultaneously",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Two or Three Inlets Working Simultaneously",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "One Inlet and One Leak/Outlet Operating Together",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "One Inlet and One Leak/Outlet Operating Together",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Filling Part of a Tank (e.g., 2/5th, 75%)",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Filling Part of a Tank (e.g., 2/5th, 75%)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Finding Emptying Rate Given Filling Rate and Net Time",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Finding Emptying Rate Given Filling Rate and Net Time",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Pipes Opened and Closed Sequentially at Specific Times",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Pipes Opened and Closed Sequentially at Specific Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Alternating Pipes",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Alternating Pipes",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Leak Developing at Specific Fill Levels",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Leak Developing at Specific Fill Levels",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Variable Efficiency / Flow Rates",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Variable Efficiency / Flow Rates",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Inlets vs Multiple Bottom/Intermediate Outlets",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Inlets vs Multiple Bottom/Intermediate Outlets",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Cistern with Multiple Leaks at Different Heights",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Cistern with Multiple Leaks at Different Heights",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Work & Pipe Capacities with Changing Cross-Section / Flow Rate",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Work & Pipe Capacities with Changing Cross-Section / Flow Rate",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Time & Clock-based Scenarios (Pipes opened at 7:00 AM, 8:00 AM, 10:00 AM)",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Time & Clock-based Scenarios (Pipes opened at 7:00 AM, 8:00 AM, 10:00 AM)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Cistern with Wastage / Resistance Over Time",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Cistern with Wastage / Resistance Over Time",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Pipes and Cisterns",
+    "legacyPattern": "Overfilling, Overflow Volumes, and Cost/Rate Optimizations",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Overfilling, Overflow Volumes, and Cost/Rate Optimizations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Coin Toss Problems",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Coin Toss Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Dice Problems",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Dice Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Standard Deck of Cards (52 Cards)",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Standard Deck of Cards (52 Cards)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Urn & Ball Selection Problems",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Urn & Ball Selection Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Number Theory & Range-Based Probability",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Number Theory & Range-Based Probability",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Arrangements & Seating Probability",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Arrangements & Seating Probability",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Independent, Dependent & Complementary Events",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Independent, Dependent & Complementary Events",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Target Shooting, Truth-Telling & Problem Solving",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Target Shooting, Truth-Telling & Problem Solving",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Geometric & Continuous Probability",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Geometric & Continuous Probability",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Probability",
+    "legacyPattern": "Conditional Probability & Bayes' Theorem",
+    "canonicalTopic": "Probability",
+    "canonicalPattern": "Conditional Probability & Bayes' Theorem",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Direct Profit/Loss & Multiplying Factor",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Direct Profit/Loss & Multiplying Factor",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Article vs. Value Equivalence (LCM / Balancing Method)",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Article vs. Value Equivalence (LCM / Balancing Method)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Chain Transactions & Successive Ownership Transfer",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Chain Transactions & Successive Ownership Transfer",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Successive Discounts & 'Buy X Get Y Free' Schemes",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Successive Discounts & 'Buy X Get Y Free' Schemes",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "MP-CP-Discount-Profit Golden Ratio Formula",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "MP-CP-Discount-Profit Golden Ratio Formula",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Twin Selling Price / Cost Price Scenarios",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Twin Selling Price / Cost Price Scenarios",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Dishonest Dealer & Faulty Weights/Measures",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Dishonest Dealer & Faulty Weights/Measures",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Incremental Shift in SP / Percentage Delta Pattern",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Incremental Shift in SP / Percentage Delta Pattern",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Weighted Average & Alligation in Profit & Loss",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Weighted Average & Alligation in Profit & Loss",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Damaged / Spoiled Stock & Variable Return",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Damaged / Spoiled Stock & Variable Return",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Profit/Loss Erroneously Calculated on SP",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Profit/Loss Erroneously Calculated on SP",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Profit and Loss",
+    "legacyPattern": "Advanced Multi-Tier / Slab Pricing & Constrained Optimization",
+    "canonicalTopic": "Profit and Loss",
+    "canonicalPattern": "Advanced Multi-Tier / Slab Pricing & Constrained Optimization",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Basic Ratios & Simplification",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Basic Ratios & Simplification",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Proportions & Variation",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Proportions & Variation",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Ratio Merging & Division of Quantities",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Ratio Merging & Division of Quantities",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Number Adjustments / Add-Subtract Shifts",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Number Adjustments / Add-Subtract Shifts",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Age Problems",
+    "canonicalTopic": "Problems on Ages",
+    "canonicalPattern": "Age-Based Ratio Problems",
+    "reason": "Moved from Ratio and Proportion to Problems on Ages as the primary domain is age calculation."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Income, Expenditure & Savings",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Income, Expenditure & Savings",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Coins, Currency & Denominations",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Coins, Currency & Denominations",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Mixtures, Dilution & Replacement",
+    "canonicalTopic": "Mixture and Alligation",
+    "canonicalPattern": "Ratio-Based Mixture & Dilution",
+    "reason": "Moved from Ratio and Proportion to Mixture and Alligation as the primary domain is liquid solutions and dilution."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Partnerships & Profit Sharing",
+    "canonicalTopic": "Partnership",
+    "canonicalPattern": "Investment Ratios & Profit Distribution",
+    "reason": "Moved from Ratio and Proportion to Partnership as the primary domain is business capital and profit distribution."
+  },
+  {
+    "legacyTopic": "Ratio and Proportion",
+    "legacyPattern": "Advanced Work, Speed & Geometric Ratios",
+    "canonicalTopic": "Ratio and Proportion",
+    "canonicalPattern": "Advanced Work, Speed & Geometric Ratios",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Basic SI & Amount Computation",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Basic SI & Amount Computation",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Sum Becomes N Times",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Sum Becomes N Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Same Principal, Changing Rates/Time",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Same Principal, Changing Rates/Time",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Different Amounts at Two Different Times",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Different Amounts at Two Different Times",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Split Investments / Partial Sums",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Split Investments / Partial Sums",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Equal Amounts / Equal SI across Multiple Rates",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Equal Amounts / Equal SI across Multiple Rates",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Fractional / Varying Rate Periods",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Fractional / Varying Rate Periods",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Simple Interest",
+    "legacyPattern": "Installments and True Discount",
+    "canonicalTopic": "Simple Interest",
+    "canonicalPattern": "Installments and True Discount",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "FV, MV, Premium & Discount Basics",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "FV, MV, Premium & Discount Basics",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Dividend, Total Income & Investment",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Dividend, Total Income & Investment",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Rate of Return & Yield Comparison",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Rate of Return & Yield Comparison",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Brokerage Calculations (Buying & Selling)",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Brokerage Calculations (Buying & Selling)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Switching & Reinvestment of Capital",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Switching & Reinvestment of Capital",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Equated Income & Equated Investment Splits",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Equated Income & Equated Investment Splits",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Stocks and Shares",
+    "legacyPattern": "Capital Gains, Taxes & Multi-Step Scenarios",
+    "canonicalTopic": "Stocks and Shares",
+    "canonicalPattern": "Capital Gains, Taxes & Multi-Step Scenarios",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Basic Laws of Indices",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Basic Laws of Indices",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Fractional Exponents & Roots",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Fractional Exponents & Roots",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Equating Exponents (Exponential Equations)",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Equating Exponents (Exponential Equations)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Simplification & Factorization of Surds",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Simplification & Factorization of Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Rationalization of Denominators",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Rationalization of Denominators",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Square Root of a Binomial Surd",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Square Root of a Binomial Surd",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Infinite Series of Surds",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Infinite Series of Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Finite Series of Surds",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Finite Series of Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Comparison / Ordering of Surds",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Comparison / Ordering of Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Algebraic Identity Applications",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Algebraic Identity Applications",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Cyclic and Symmetric Expressions",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Cyclic and Symmetric Expressions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Surds and Indices",
+    "legacyPattern": "Systems of Equations with Exponents & Surds",
+    "canonicalTopic": "Surds and Indices",
+    "canonicalPattern": "Systems of Equations with Exponents & Surds",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Basic Unitary & Two/Three Person Work",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Basic Unitary & Two/Three Person Work",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Work Leaving & Joining",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Work Leaving & Joining",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Efficiency & Proportions",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Efficiency & Proportions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Alternate Days & Cyclic Work",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Alternate Days & Cyclic Work",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Group Work & Chain Rule (M1 D1 H1 / W1 = M2 D2 H2 / W2)",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Group Work & Chain Rule (M1 D1 H1 / W1 = M2 D2 H2 / W2)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Wages & Compensation Sharing",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Wages & Compensation Sharing",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Pipes & Cisterns (Analogy to Time & Work)",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Inlet and Outlet Pipes (Work Analogy)",
+    "reason": "Moved from Time and Work to Pipes and Cisterns as the primary domain is tank filling, emptying, and leakage."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Negative Work & Sabotage",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Negative Work & Sabotage",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time and Work",
+    "legacyPattern": "Advanced Non-Linear & Inverse Relationships",
+    "canonicalTopic": "Time and Work",
+    "canonicalPattern": "Advanced Non-Linear & Inverse Relationships",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Basic Speed-Distance-Time & Unit Conversions",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Basic Speed-Distance-Time & Unit Conversions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Average Speed",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Average Speed",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Relative Speed (Same Direction & Opposite Direction)",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Relative Speed (Same Direction & Opposite Direction)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Trains Crossing Stationary & Moving Objects",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing Stationary and Moving Reference Objects",
+    "reason": "Moved from Time, Speed and Distance to Problems on Trains as the primary domain is train length and reference crossing."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Boats, Streams, and Escalators",
+    "canonicalTopic": "Boats and Streams",
+    "canonicalPattern": "Still Water, Current, and Relative Speed in Streams",
+    "reason": "Moved from Time, Speed and Distance to Boats and Streams as the primary domain is river stream and boat velocities."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Races, Head Starts, and Dead Heats",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Races, Head Starts, and Dead Heats",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Circular Motion and Tracks",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Circular Motion and Tracks",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Proportionality, Early/Late & Speed Change Scenarios",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Proportionality, Early/Late & Speed Change Scenarios",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Stoppages and Breakdowns",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Stoppages and Breakdowns",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Time, Speed and Distance",
+    "legacyPattern": "Advanced Meeting, Crossing & Return Journeys",
+    "canonicalTopic": "Time, Speed and Distance",
+    "canonicalPattern": "Advanced Meeting, Crossing & Return Journeys",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Basic Speed-Distance-Time & Unit Conversions",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Speed-Distance-Time & Unit Conversions (km/h to m/s)",
+    "reason": "Renamed to distinguish train-specific velocity and conversion techniques (km/h to m/s) from general TSD."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Train Crossing a Stationary Point Object",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing a Stationary Point Object",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Train Crossing a Stationary Object with Length",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing a Stationary Object with Length",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Train Crossing a Moving Person (Same Direction)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing a Moving Person (Same Direction)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Train Crossing a Moving Person (Opposite Direction)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing a Moving Person (Opposite Direction)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Two Trains Crossing Each Other (Opposite Directions)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Two Trains Crossing Each Other (Opposite Directions)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Two Trains Crossing Each Other (Same Direction / Overtaking)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Two Trains Crossing Each Other (Same Direction / Overtaking)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Train Crossing a Person Sitting Inside Another Moving Train",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Train Crossing a Person Sitting Inside Another Moving Train",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Variable Speeds / Ratio-Based Problems",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Variable Speeds / Ratio-Based Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Meeting Time & Distance (Departing at Same / Different Times)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Meeting Time & Distance (Departing at Same / Different Times)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Post-Meeting Time & Speed Formula (Product / Square Root Theorem)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Post-Meeting Time & Speed Formula (Product / Square Root Theorem)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Stoppages & Average Speed Impact",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Stoppages & Average Speed Impact",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Dual Reference Object Systems (Simultaneous Equations)",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Dual Reference Object Systems (Simultaneous Equations)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Problems on Trains",
+    "legacyPattern": "Trains with Accelerating / Decelerating / Late-Start Conditions",
+    "canonicalTopic": "Problems on Trains",
+    "canonicalPattern": "Trains with Accelerating / Decelerating / Late-Start Conditions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Basic Trigonometric Ratios & Identities",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Basic Trigonometric Ratios & Identities",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Single Right Triangle Heights & Distances (Basic)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Single Right Triangle Heights & Distances (Basic)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Two-Point Observation on the Same Side (Intermediate)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Two-Point Observation on the Same Side (Intermediate)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Two-Point Observation on Opposite Sides (Intermediate)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Two-Point Observation on Opposite Sides (Intermediate)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Observer with Non-Zero Eye Level / Pedestal Problems (Intermediate)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Observer with Non-Zero Eye Level / Pedestal Problems (Intermediate)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Combined Elevation and Depression (Upper-Intermediate)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Combined Elevation and Depression (Upper-Intermediate)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Broken Tree / Folded Object Problems (Intermediate)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Broken Tree / Folded Object Problems (Intermediate)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Complementary Angles at Two Distances (Shortcut Patterns)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Complementary Angles at Two Distances (Shortcut Patterns)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "Cloud and Water Reflection Problems (Advanced)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "Cloud and Water Reflection Problems (Advanced)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Trigonometry",
+    "legacyPattern": "3D / Non-Collinear Ground Points (Advanced)",
+    "canonicalTopic": "Trigonometry",
+    "canonicalPattern": "3D / Non-Collinear Ground Points (Advanced)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Direct Formula Application (3D Primitives)",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Direct Formula Application (3D Primitives)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Melting, Casting, and Recasting (Volume Conservation)",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Melting, Casting, and Recasting (Volume Conservation)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Internal & External Dimensions (Hollow Solids)",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Internal & External Dimensions (Hollow Solids)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Water Level & Displacement Problems",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Water Level & Displacement Problems",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Percentage & Fractional Changes (Scaling Effects)",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Percentage & Fractional Changes (Scaling Effects)",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Ratios and Proportions",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Ratios and Proportions",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Cutting, Slicing, and Sectioning",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Cutting, Slicing, and Sectioning",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Inscribing & Circumscribing Solids",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Inscribing & Circumscribing Solids",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Cost, Painting, Wrapping & Canvas Requirements",
+    "canonicalTopic": "Volume and Surface Area",
+    "canonicalPattern": "Cost, Painting, Wrapping & Canvas Requirements",
+    "reason": "Retained as primary canonical pattern in topic domain."
+  },
+  {
+    "legacyTopic": "Volume and Surface Area",
+    "legacyPattern": "Rate of Flow & Tank Filling via Pipes",
+    "canonicalTopic": "Pipes and Cisterns",
+    "canonicalPattern": "Pipe Flow Rate & Cylindrical Tank Filling Time",
+    "reason": "Moved from Volume and Surface Area to Pipes and Cisterns as all questions compute tank filling time via pipe flow."
+  }
+]

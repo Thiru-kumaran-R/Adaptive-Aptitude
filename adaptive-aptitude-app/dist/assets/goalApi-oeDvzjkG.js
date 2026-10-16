@@ -1,0 +1,1 @@
+import{a as e}from"./index-BMpL5RLw.js";async function r(a){return e.get(`/api/v1/users/${a}`)}async function t(a){return e.get(`/api/v1/goals/user/${a}`)}async function n(a){return e.post("/api/v1/goals",a)}export{r as a,n as c,t as f};
